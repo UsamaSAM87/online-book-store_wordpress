@@ -1,0 +1,25 @@
+/*
+ *  Usage:
+ *
+      <div class="xt_woofc-spinner-rotating-plane"></div>
+ *
+ */
+@import "../variables";
+
+.xt_woofc-spinner-rotating-plane {
+  width: $spinkit-spinner-size;
+  height: $spinkit-spinner-size;
+  background-color: $spinkit-spinner-color;
+  margin: $spinkit-spinner-margin;
+  animation: xt_woofc-spinner-rotatePlane 1.2s infinite ease-in-out;
+}
+
+@keyframes xt_woofc-spinner-rotatePlane {
+  0% {
+    transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+  } 50% {
+    transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+  } 100% {
+    transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+  }
+}

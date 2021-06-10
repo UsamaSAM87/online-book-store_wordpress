@@ -1,0 +1,64 @@
+[id*=accordion-panel-xt_]{
+
+	.customize-info .panel-title {
+		font-size:16px;
+		color: #bd043d;
+	}
+
+	.panel-title.dashicons-before:before,
+	.customize-section-description-container h3.dashicons-before:before{
+		display:none;
+	}
+
+	> .accordion-section-title{
+		color: #bd043d!important;
+	}
+
+	.accordion-section-title{
+		color: #181818;
+
+		> .dashicons,
+		&:before {
+			margin-right: 10px;
+			color: #bd043d;
+			height: initial;
+		}
+	}
+}
+
+.control-section-xirki-default,
+[id*=sub-accordion-section-xt_]{
+	.customize-section-title .dashicons{
+		display:none;
+	}
+}
+
+[class*=customize-control-xirki-]{
+	border-bottom: 1px solid #ddd!important;
+	border-top: 0!important;
+	padding-bottom: 15px;
+	&:last-child{
+		border-bottom:0!important;
+	}
+}
+
+.customize-control-xirki-color {
+	.wp-picker-container {
+
+		span.color,
+		span.color-alpha {
+			height: 100%!important;
+		}
+	}
+}
+
+.customize-control-xirki-custom {
+
+	padding: 10px 0;
+	box-sizing: border-box;
+
+	.customize-control-title {
+
+		font-size: 18px;
+	}
+}

@@ -1,0 +1,25 @@
+/*
+ *  Usage:
+ *
+      <div class="xt_woofc-spinner-spinner xt_woofc-spinner-spinner-pulse"></div>
+ *
+ */
+@import "../variables";
+
+.xt_woofc-spinner-spinner-pulse {
+  width: $spinkit-spinner-size;
+  height: $spinkit-spinner-size;
+  margin: $spinkit-spinner-margin;
+  background-color: $spinkit-spinner-color;
+  border-radius: 100%;
+  animation: xt_woofc-spinner-pulseScaleOut 1.0s infinite ease-in-out;
+}
+
+@keyframes xt_woofc-spinner-pulseScaleOut {
+  0% {
+    transform: scale(0);
+  } 100% {
+    transform: scale(1.0);
+    opacity: 0;
+  }
+}

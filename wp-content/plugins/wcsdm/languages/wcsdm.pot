@@ -1,0 +1,611 @@
+# Copyright (C) 2019 WooCommerce-Shipping-Distance-Matrix
+# This file is distributed under the same license as the WooCommerce-Shipping-Distance-Matrix package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce-Shipping-Distance-Matrix\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wcsdm.php:124
+msgid "Settings"
+msgstr ""
+
+#: wcsdm.php:131
+msgid "Get Pro Version"
+msgstr ""
+
+#: includes/class-wcsdm.php:101
+msgid "Shipping rates calculator that allows you to easily offer shipping rates based on the distance."
+msgstr ""
+
+#: includes/class-wcsdm.php:170
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-wcsdm.php:173
+msgid "Label"
+msgstr ""
+
+#: includes/class-wcsdm.php:176
+msgid "This controls the label which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wcsdm.php:182
+msgid "Tax Status"
+msgstr ""
+
+#: includes/class-wcsdm.php:185
+msgid "Tax status of fee."
+msgstr ""
+
+#: includes/class-wcsdm.php:189
+msgid "Taxable"
+msgstr ""
+
+#: includes/class-wcsdm.php:190, includes/class-wcsdm.php:311
+msgid "None"
+msgstr ""
+
+#: includes/class-wcsdm.php:197
+msgid "Store Location Settings"
+msgstr ""
+
+#: includes/class-wcsdm.php:200
+msgid "Browser API Key"
+msgstr ""
+
+#: includes/class-wcsdm.php:203
+msgid "Google maps platform API Key for usage in browser side request. This API Key will be used by Store Location Latitude/Longitude setting fields and customer checkout Address Picker that available in Pro Version. This API Key MUST be has HTTP referrers restriction setting activated."
+msgstr ""
+
+#: includes/class-wcsdm.php:206, includes/class-wcsdm.php:216, includes/class-wcsdm.php:247, includes/class-wcsdm.php:258, includes/class-wcsdm.php:269
+msgid "Click the icon on the right to edit"
+msgstr ""
+
+#: includes/class-wcsdm.php:210
+msgid "Server API Key"
+msgstr ""
+
+#: includes/class-wcsdm.php:213
+msgid "Google maps platform API Key for usage in server side request. This API Key will be used to calculate the distance of the customer during checkout. This API Key MUST be has IP addresses restriction setting activated."
+msgstr ""
+
+#: includes/class-wcsdm.php:221
+msgid "Store Origin Type"
+msgstr ""
+
+#: includes/class-wcsdm.php:224
+msgid "Preferred data that will be used as the origin info when calculating the distance."
+msgstr ""
+
+#: includes/class-wcsdm.php:228, includes/class-wcsdm.php:263
+msgid "Store Location Address"
+msgstr ""
+
+#: includes/class-wcsdm.php:229
+msgid "Store Location Coordinate"
+msgstr ""
+
+#: includes/class-wcsdm.php:241
+msgid "Store Location Latitude"
+msgstr ""
+
+#: includes/class-wcsdm.php:244
+msgid "Store location latitude coordinates"
+msgstr ""
+
+#: includes/class-wcsdm.php:252
+msgid "Store Location Longitude"
+msgstr ""
+
+#: includes/class-wcsdm.php:255
+msgid "Store location longitude coordinates"
+msgstr ""
+
+#: includes/class-wcsdm.php:266
+msgid "Store location full address"
+msgstr ""
+
+#: includes/class-wcsdm.php:274
+msgid "Frontend Address Picker"
+msgstr ""
+
+#: includes/class-wcsdm.php:275
+msgid "Enable"
+msgstr ""
+
+#: includes/class-wcsdm.php:278
+msgid "Enable the map address picker to user during checkout so can get more accurate distance and the address form will be autocomplete upon an address selected."
+msgstr ""
+
+#: includes/class-wcsdm.php:287
+msgid "Route Settings"
+msgstr ""
+
+#: includes/class-wcsdm.php:290
+msgid "Travel Mode"
+msgstr ""
+
+#: includes/class-wcsdm.php:293
+msgid "Google Maps Distance Matrix API travel mode parameter."
+msgstr ""
+
+#: includes/class-wcsdm.php:297
+msgid "Driving"
+msgstr ""
+
+#: includes/class-wcsdm.php:298
+msgid "Walking"
+msgstr ""
+
+#: includes/class-wcsdm.php:299
+msgid "Bicycling"
+msgstr ""
+
+#: includes/class-wcsdm.php:304
+msgid "Route Restrictions"
+msgstr ""
+
+#: includes/class-wcsdm.php:307
+msgid "Google Maps Distance Matrix API route restrictions parameter."
+msgstr ""
+
+#: includes/class-wcsdm.php:312
+msgid "Avoid Tolls"
+msgstr ""
+
+#: includes/class-wcsdm.php:313
+msgid "Avoid Highways"
+msgstr ""
+
+#: includes/class-wcsdm.php:314
+msgid "Avoid Ferries"
+msgstr ""
+
+#: includes/class-wcsdm.php:315
+msgid "Avoid Indoor"
+msgstr ""
+
+#: includes/class-wcsdm.php:320
+msgid "Preferred Route"
+msgstr ""
+
+#: includes/class-wcsdm.php:323
+msgid "Prefered route that will be used for calculation if API provide several routes"
+msgstr ""
+
+#: includes/class-wcsdm.php:327
+msgid "Shortest Distance"
+msgstr ""
+
+#: includes/class-wcsdm.php:328
+msgid "Longest Distance"
+msgstr ""
+
+#: includes/class-wcsdm.php:329
+msgid "Shortest Duration"
+msgstr ""
+
+#: includes/class-wcsdm.php:330
+msgid "Longest Duration"
+msgstr ""
+
+#: includes/class-wcsdm.php:334
+msgid "Distance Units"
+msgstr ""
+
+#: includes/class-wcsdm.php:337
+msgid "Google Maps Distance Matrix API distance units parameter."
+msgstr ""
+
+#: includes/class-wcsdm.php:341
+msgid "Kilometer"
+msgstr ""
+
+#: includes/class-wcsdm.php:342
+msgid "Mile"
+msgstr ""
+
+#: includes/class-wcsdm.php:353
+msgid "Rate per Kilometer"
+msgstr ""
+
+#: includes/class-wcsdm.php:354
+msgid "Rate per Mile"
+msgstr ""
+
+#: includes/class-wcsdm.php:361
+msgid "Round Up Distance"
+msgstr ""
+
+#: includes/class-wcsdm.php:362, includes/class-wcsdm.php:370
+msgid "Yes"
+msgstr ""
+
+#: includes/class-wcsdm.php:365
+msgid "Round the distance up to the nearest absolute number."
+msgstr ""
+
+#: includes/class-wcsdm.php:369
+msgid "Show Distance Info"
+msgstr ""
+
+#: includes/class-wcsdm.php:373
+msgid "Show the distance info to customer during checkout."
+msgstr ""
+
+#: includes/class-wcsdm.php:380
+msgid "Global Total Cost Settings"
+msgstr ""
+
+#: includes/class-wcsdm.php:385
+msgid "Minimum Cost"
+msgstr ""
+
+#: includes/class-wcsdm.php:387
+msgid "Minimum cost that will be applied."
+msgstr ""
+
+#: includes/class-wcsdm.php:397
+msgid "Surcharge"
+msgstr ""
+
+#: includes/class-wcsdm.php:399
+msgid "Surcharge that will be added to the total shipping cost."
+msgstr ""
+
+#: includes/class-wcsdm.php:409
+msgid "Total Cost Type"
+msgstr ""
+
+#: includes/class-wcsdm.php:411
+msgid "Determine how is the total shipping cost will be calculated."
+msgstr ""
+
+#: includes/class-wcsdm.php:415
+msgid "Max - Set highest item cost as total (Flat)"
+msgstr ""
+
+#: includes/class-wcsdm.php:416
+msgid "Average - Set average item cost as total (Flat)"
+msgstr ""
+
+#: includes/class-wcsdm.php:417
+msgid "Min - Set lowest item cost as total (Flat)"
+msgstr ""
+
+#: includes/class-wcsdm.php:418
+msgid "Per Class - Accumulate total by grouping the product shipping class (Progressive)"
+msgstr ""
+
+#: includes/class-wcsdm.php:419
+msgid "Per Product - Accumulate total by grouping the product ID (Progressive)"
+msgstr ""
+
+#: includes/class-wcsdm.php:420
+msgid "Per Piece - Accumulate total by multiplying the quantity (Progressive)"
+msgstr ""
+
+#: includes/class-wcsdm.php:421
+msgid "Advanced - Use math formula to calculate the total"
+msgstr ""
+
+#: includes/class-wcsdm.php:421, includes/class-wcsdm.php:1664
+msgid "Pro Version"
+msgstr ""
+
+#: includes/class-wcsdm.php:428, includes/class-wcsdm.php:432
+msgid "Table Rates Settings"
+msgstr ""
+
+#: includes/class-wcsdm.php:438
+msgid "Advanced Rate Settings"
+msgstr ""
+
+#: includes/class-wcsdm.php:442
+msgid "Advanced Table Rate Settings"
+msgstr ""
+
+#: includes/class-wcsdm.php:448, includes/class-wcsdm.php:451
+msgid "Store Location Picker"
+msgstr ""
+
+#: includes/class-wcsdm.php:453, includes/class-wcsdm.php:804
+msgid "Drag the store icon marker or search your address in the input box below."
+msgstr ""
+
+#: includes/class-wcsdm.php:459, includes/class-wcsdm.php:462
+msgid "How To Get API Key?"
+msgstr ""
+
+#: includes/class-wcsdm.php:483
+msgid "Shipping Rules"
+msgstr ""
+
+#: includes/class-wcsdm.php:490
+msgid "Maximum Distances"
+msgstr ""
+
+#: includes/class-wcsdm.php:491
+msgid "The maximum distances rule for the shipping rate. This input is required."
+msgstr ""
+
+#: includes/class-wcsdm.php:506
+msgid "Minimum Order Quantity"
+msgstr ""
+
+#: includes/class-wcsdm.php:507
+msgid "The shipping rule for minimum order quantity. Leave blank or fill with zero value to disable this rule."
+msgstr ""
+
+#: includes/class-wcsdm.php:522
+msgid "Maximum Order Quantity"
+msgstr ""
+
+#: includes/class-wcsdm.php:523
+msgid "The shipping rule for maximum order quantity. Leave blank or fill with zero value to disable this rule."
+msgstr ""
+
+#: includes/class-wcsdm.php:538
+msgid "Minimum Order Amount"
+msgstr ""
+
+#: includes/class-wcsdm.php:539
+msgid "The shipping rule for minimum order amount. Leave blank or fill with zero value to disable this rule."
+msgstr ""
+
+#: includes/class-wcsdm.php:554
+msgid "Maximum Order Amount"
+msgstr ""
+
+#: includes/class-wcsdm.php:555
+msgid "The shipping rule for maximum order amount. Leave blank or fill with zero value to disable this rule."
+msgstr ""
+
+#: includes/class-wcsdm.php:570
+msgid "Shipping Rates"
+msgstr ""
+
+#: includes/class-wcsdm.php:577
+msgid "Default Shipping Rate"
+msgstr ""
+
+#: includes/class-wcsdm.php:578
+msgid "The shipping rate within the distances range. Zero value will be assumed as free shipping."
+msgstr ""
+
+#: includes/class-wcsdm.php:592
+msgid "Total Cost"
+msgstr ""
+
+#: includes/class-wcsdm.php:600, includes/class-wcsdm.php:611, includes/class-wcsdm.php:644
+msgid "Leave blank to inherit from the global setting."
+msgstr ""
+
+#: includes/class-wcsdm.php:627
+msgid "Inherit - Use global setting"
+msgstr ""
+
+#: includes/class-wcsdm.php:636
+msgid "General"
+msgstr ""
+
+#: includes/class-wcsdm.php:655
+msgid "Advanced"
+msgstr ""
+
+#. translators: %s is Product shipping class name.
+#: includes/class-wcsdm.php:675
+msgid "\"%s\" Shipping Class Rate"
+msgstr ""
+
+#. translators: %s is Product shipping class name.
+#: includes/class-wcsdm.php:677
+msgid "Rate for \"%s\" shipping class products. Leave blank to use defined default rate above."
+msgstr ""
+
+#: includes/class-wcsdm.php:782
+msgid "Errors"
+msgstr ""
+
+#: includes/class-wcsdm.php:852
+msgid "How to Get API Key?"
+msgstr ""
+
+#: includes/class-wcsdm.php:979
+msgid "This plugin uses Google Maps Platform APIs where users are required to have a valid API key to be able to use their APIs. Make sure you checked 3 the checkboxes as shown below when creating the API Key."
+msgstr ""
+
+#. translators: %1$d = row number, %2$s = error message.
+#: includes/class-wcsdm.php:1240
+msgid "Table rates row %1$d: %2$s"
+msgstr ""
+
+#: includes/class-wcsdm.php:1296
+msgid "Shipping rates table is empty"
+msgstr ""
+
+#. translators: %s = API response error message.
+#: includes/class-wcsdm.php:1349
+msgid "Server API Key Error: %s"
+msgstr ""
+
+#: includes/class-wcsdm.php:1410
+msgid "Origin parameter is empty"
+msgstr ""
+
+#: includes/class-wcsdm.php:1415
+msgid "Destination parameter is empty"
+msgstr ""
+
+#: includes/class-wcsdm.php:1458
+msgid "API Request URL"
+msgstr ""
+
+#: includes/class-wcsdm.php:1471
+msgid "API response is empty"
+msgstr ""
+
+#. translators: %s = Json error message.
+#: includes/class-wcsdm.php:1481
+msgid "Error occured while decoding API response: %s"
+msgstr ""
+
+#: includes/class-wcsdm.php:1489, includes/class-wcsdm.php:1528, includes/class-wcsdm.php:1533
+msgid "API Response Error"
+msgstr ""
+
+#: includes/class-wcsdm.php:1520
+msgid "Origin and/or destination of this pairing could not be geocoded"
+msgstr ""
+
+#: includes/class-wcsdm.php:1521
+msgid "No route could be found between the origin and destination"
+msgstr ""
+
+#: includes/class-wcsdm.php:1522
+msgid "Requested route is too long and cannot be processed"
+msgstr ""
+
+#: includes/class-wcsdm.php:1533
+msgid "No results found"
+msgstr ""
+
+#: includes/class-wcsdm.php:1580
+msgid "API Response"
+msgstr ""
+
+#: includes/class-wcsdm.php:1715
+msgid "Multiple instances shipping method WooCommerce Shipping Distance Matrix within the same zone only available in Pro Version. Please upgrade."
+msgstr ""
+
+#: includes/class-wcsdm.php:1833
+msgid "API Response data is empty"
+msgstr ""
+
+#: includes/class-wcsdm.php:1845
+msgid "Calculated shipping data format is invalid"
+msgstr ""
+
+#: includes/class-wcsdm.php:1907
+msgid "Rate Match"
+msgstr ""
+
+#. translators: %1$s distance value, %2$s distance unit.
+#: includes/class-wcsdm.php:2045
+msgid "No shipping rates defined within distance range: %1$s %2$s"
+msgstr ""
+
+#. translators: %s = Field label.
+#: includes/class-wcsdm.php:2157
+msgid "Shipping destination field is empty: %s"
+msgstr ""
+
+#. translators: %s = Field label.
+#: includes/class-wcsdm.php:2162
+msgid "Shipping destination field is invalid: %s"
+msgstr ""
+
+#: includes/helpers.php:51
+msgid "Drag this marker or search your address at the input above."
+msgstr ""
+
+#. translators: %s = distance unit.
+#: includes/helpers.php:53
+msgid "Per %s"
+msgstr ""
+
+#: includes/helpers.php:54
+msgid "Map is error"
+msgstr ""
+
+#: includes/helpers.php:55
+msgid "Latitude"
+msgstr ""
+
+#: includes/helpers.php:56
+msgid "Longitude"
+msgstr ""
+
+#: includes/helpers.php:58
+msgid "Get API Key"
+msgstr ""
+
+#: includes/helpers.php:59
+msgid "Back"
+msgstr ""
+
+#: includes/helpers.php:60
+msgid "Cancel"
+msgstr ""
+
+#: includes/helpers.php:61
+msgid "Apply Changes"
+msgstr ""
+
+#: includes/helpers.php:62
+msgid "Confirm Delete"
+msgstr ""
+
+#: includes/helpers.php:63
+msgid "Delete Selected Rates"
+msgstr ""
+
+#: includes/helpers.php:64, includes/helpers.php:89
+msgid "Add New Rate"
+msgstr ""
+
+#: includes/helpers.php:65, includes/helpers.php:88
+msgid "Save Changes"
+msgstr ""
+
+#. translators: %s = Field name.
+#: includes/helpers.php:69
+msgid "%s field is required"
+msgstr ""
+
+#. translators: %1$s = Field name, %2$d = Minimum field value rule.
+#: includes/helpers.php:71
+msgid "%1$s field value cannot be lower than %2$d"
+msgstr ""
+
+#. translators: %1$s = Field name, %2$d = Maximum field value rule.
+#: includes/helpers.php:73
+msgid "%1$s field value cannot be greater than %2$d"
+msgstr ""
+
+#. translators: %s = Field name.
+#: includes/helpers.php:75
+msgid "%s field value must be numeric"
+msgstr ""
+
+#. translators: %s = Field name.
+#: includes/helpers.php:77
+msgid "%s field value must be numeric and decimal"
+msgstr ""
+
+#. translators: %s = Field name.
+#: includes/helpers.php:79
+msgid "%s field value selected is not exists"
+msgstr ""
+
+#. translators: %1$d = row number, %2$s = error message.
+#: includes/helpers.php:81
+msgid "Each shipping rules combination for each row must be unique. Please fix duplicate shipping rules for rate row %1$d: %2$s"
+msgstr ""
+
+#. translators: %s = Field name.
+#: includes/helpers.php:84
+msgid "%s field value only changeable in pro version. Please upgrade!"
+msgstr ""
+
+#: includes/helpers.php:85
+msgid "Total cost type \"Match Formula\" options only available in pro version. Please upgrade!"
+msgstr ""

@@ -1,0 +1,219 @@
+/* Begin Import */
+/*
+* http://chir.ag/projects/name-that-color/
+*/
+/* End Import */
+/* Begin Stylings */
+.wcsdm-hidden {
+  display: none; }
+  .wcsdm-hidden.button {
+    display: none; }
+
+.wcsdm-no-padding {
+  padding: 0 !important; }
+
+.wcsdm-spinner {
+  float: none;
+  margin-top: 0;
+  margin-left: 7px; }
+
+.wcsdm-link {
+  text-decoration: none;
+  width: 60px;
+  text-align: center; }
+  .wcsdm-link:active, .wcsdm-link:focus {
+    text-decoration: none;
+    -webkit-box-shadow: none;
+            box-shadow: none; }
+
+.wcsdm-edit-api-key.editing .dashicons-edit {
+  display: none; }
+
+.wcsdm-edit-api-key:not(.editing) .dashicons-yes {
+  display: none; }
+
+.wcsdm-edit-api-key.loading .dashicons {
+  display: none; }
+
+.wcsdm-edit-api-key:not(.loading) .spinner {
+  display: none; }
+
+.wcsdm-edit-api-key.loading .spinner {
+  visibility: visible; }
+
+.wcsdm-fullwidth:not(a) {
+  display: block;
+  width: 100% !important; }
+
+.wcsdm-buttons-item.button-large .dashicons {
+  margin-top: 5px; }
+  .wcsdm-buttons-item.button-large .dashicons:before {
+    font-size: 1em; }
+
+.wcsdm-buttons-item--left {
+  float: left; }
+
+.wcsdm-field:disabled {
+  background: #f8f8f8; }
+
+.wcsdm-field-type--title {
+  padding-left: 14px !important; }
+  .wcsdm-field-type--title ~ p {
+    padding-left: 14px !important; }
+
+.wcsdm-field-group-wrap {
+  padding-top: 1px;
+  margin-bottom: 1em;
+  -webkit-box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.1); }
+  .wcsdm-field-group-wrap > .form-table {
+    border-top: 1px solid #f8f8f8;
+    -webkit-box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.1); }
+  .wcsdm-field-group-wrap--api_key_instruction > h3, .wcsdm-field-group-wrap--location_picker > h3, .wcsdm-field-group-wrap--advanced_rate > h3 {
+    text-align: center; }
+
+.wcsdm-table--table_rates--dummy {
+  max-width: 100%; }
+  .wcsdm-table--table_rates--dummy tr .wcsdm-col {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    background-color: #ffffff; }
+    .wcsdm-table--table_rates--dummy tr .wcsdm-col--select-item {
+      width: 50px;
+      text-align: center; }
+      .wcsdm-table--table_rates--dummy tr .wcsdm-col--select-item input {
+        margin: 0;
+        padding: 0; }
+    .wcsdm-table--table_rates--dummy tr .wcsdm-col--link_advanced {
+      width: 96px;
+      text-align: center; }
+    .wcsdm-table--table_rates--dummy tr .wcsdm-col + .wcsdm-col {
+      border-left: 1px solid #f1f1f1; }
+  .wcsdm-table--table_rates--dummy thead tr .wcsdm-col {
+    font-weight: 600; }
+  .wcsdm-table--table_rates--dummy tbody tr .wcsdm-col {
+    padding-top: 9px !important;
+    padding-bottom: 9px !important; }
+  .wcsdm-table--table_rates--dummy tbody tr.highlighted .wcsdm-col {
+    -webkit-animation: highlighted 0.5s infinite;
+            animation: highlighted 0.5s infinite; }
+  .wcsdm-table--table_rates--dummy tbody tr:nth-child(odd) .wcsdm-col {
+    background-color: rgba(175, 206, 255, 0.1); }
+  .wcsdm-table--table_rates--dummy tbody tr:nth-child(even) .wcsdm-col {
+    background-color: #ffffff; }
+  .wcsdm-table--table_rates--dummy tbody tr:last-child td,
+  .wcsdm-table--table_rates--dummy tbody tr:last-child th {
+    border-bottom: 0px solid rgba(248, 248, 248, 0) !important; }
+  .wcsdm-table--table_rates--dummy tbody tr:hover .wcsdm-col {
+    background-color: rgba(175, 206, 255, 0.2); }
+  .wcsdm-table--table_rates--dummy tbody tr .wcsdm-field--context--dummy:not(a) {
+    min-width: 100px !important; }
+
+.wcsdm-table--advanced_rate .wcsdm-no-padding .wcsdm-field-type--title {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background: rgba(248, 248, 248, 0.6);
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid #f8f8f8; }
+
+.wcsdm-table--advanced_rate .wcsdm-no-padding .form-table {
+  border-top: 1px solid #f8f8f8;
+  margin-bottom: 0 !important; }
+
+.wcsdm-map-instructions {
+  background-color: #fcf7d4;
+  border: 1px solid #f5e575;
+  text-align: center;
+  padding: 30px 30px;
+  max-width: 760px;
+  margin: 50px auto 50px;
+  border-radius: 5px; }
+  .wcsdm-map-instructions img {
+    display: block;
+    margin: 20px auto 0;
+    max-width: 100%;
+    width: 100%; }
+
+.wcsdm-map-wrap {
+  position: relative;
+  padding: 0; }
+
+.wcsdm-map-canvas {
+  height: 450px; }
+
+.wcsdm-map-error {
+  text-align: center;
+  padding-top: 100px; }
+
+.wcsdm-map-search-panel {
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+  border: 1px solid #e6e6e6;
+  padding: 10px 10px 15px;
+  width: 100%;
+  max-width: 560px;
+  border-radius: 15px;
+  margin: 10px;
+  background-color: #fffec4;
+  border: 1px solid #fffb2b;
+  -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.4);
+          box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.4); }
+  .wcsdm-map-search-panel h3,
+  .wcsdm-map-search-panel p {
+    text-align: center;
+    margin: 0px !important; }
+  .gm-style .wcsdm-map-search-panel {
+    display: block; }
+  .wcsdm-map-search-panel-toggle {
+    position: absolute;
+    top: 10px;
+    right: 10px; }
+    .hide-main .wcsdm-map-search-panel-toggle {
+      left: 6px;
+      top: 6px; }
+      .hide-main .wcsdm-map-search-panel-toggle .dashicons {
+        font-size: 2.4em; }
+  .wcsdm-map-search-panel.hide-main {
+    width: 40px;
+    height: 40px;
+    border-radius: 0px;
+    background-color: #ffffff;
+    border: 1px solid #e6e6e6;
+    -webkit-box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0);
+            box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0); }
+
+.wcsdm-map-search-input {
+  display: block;
+  margin: 10px 0 0;
+  border-radius: 5px; }
+
+.pac-container {
+  z-index: 9999999; }
+
+@-webkit-keyframes highlighted {
+  0% {
+    background-color: #ffffff; }
+  49% {
+    background-color: #ffffff; }
+  50% {
+    background-color: rgba(175, 206, 255, 0.3); }
+  99% {
+    background-color: rgba(175, 206, 255, 0.3); }
+  100% {
+    background-color: #ffffff; } }
+
+@keyframes highlighted {
+  0% {
+    background-color: #ffffff; }
+  49% {
+    background-color: #ffffff; }
+  50% {
+    background-color: rgba(175, 206, 255, 0.3); }
+  99% {
+    background-color: rgba(175, 206, 255, 0.3); }
+  100% {
+    background-color: #ffffff; } }

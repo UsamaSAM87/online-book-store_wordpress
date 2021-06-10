@@ -1,0 +1,3176 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: XT Woo Floating Cart\n"
+"POT-Creation-Date: 2019-08-23 00:37-0400\n"
+"PO-Revision-Date: 2019-08-23 00:36-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: xt-woo-floating-cart.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-admin.php:92
+#: deploy/dist/free/woo-floating-cart-lite/admin/class-admin.php:92
+#: deploy/dist/premium/xt-woo-floating-cart/admin/class-admin.php:92
+msgid "Change Log"
+msgstr ""
+
+#: admin/class-admin.php:93
+#: deploy/dist/free/woo-floating-cart-lite/admin/class-admin.php:93
+#: deploy/dist/premium/xt-woo-floating-cart/admin/class-admin.php:93
+msgid "About"
+msgstr ""
+
+#: admin/class-admin.php:103
+#: deploy/dist/free/woo-floating-cart-lite/admin/class-admin.php:103
+#: deploy/dist/premium/xt-woo-floating-cart/admin/class-admin.php:103
+msgid "Customize"
+msgstr ""
+
+#: admin/class-admin.php:113 admin/class-admin.php:122
+#: deploy/dist/free/woo-floating-cart-lite/admin/class-admin.php:113
+#: deploy/dist/free/woo-floating-cart-lite/admin/class-admin.php:122
+#: deploy/dist/premium/xt-woo-floating-cart/admin/class-admin.php:113
+#: deploy/dist/premium/xt-woo-floating-cart/admin/class-admin.php:122
+msgid "Support"
+msgstr ""
+
+#: admin/class-admin.php:130
+#: deploy/dist/free/woo-floating-cart-lite/admin/class-admin.php:130
+#: deploy/dist/premium/xt-woo-floating-cart/admin/class-admin.php:130
+msgid "Shop"
+msgstr ""
+
+#: admin/class-admin.php:135
+#: deploy/dist/free/woo-floating-cart-lite/admin/class-admin.php:135
+#: deploy/dist/premium/xt-woo-floating-cart/admin/class-admin.php:135
+msgid "Products you might like"
+msgstr ""
+
+#: admin/class-admin.php:144
+#: deploy/dist/free/woo-floating-cart-lite/admin/class-admin.php:144
+#: deploy/dist/premium/xt-woo-floating-cart/admin/class-admin.php:144
+msgid "Upgrade"
+msgstr ""
+
+#: admin/class-admin.php:170
+#: deploy/dist/free/woo-floating-cart-lite/admin/class-admin.php:170
+#: deploy/dist/premium/xt-woo-floating-cart/admin/class-admin.php:170
+#, php-format
+msgid "<strong>%1$s</strong> plugin requires %2$s to be installed and active."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/class-core.php:488
+#: deploy/dist/free/woo-floating-cart-lite/includes/class-core.php:499
+#: deploy/dist/premium/xt-woo-floating-cart/includes/class-core.php:509
+#: deploy/dist/premium/xt-woo-floating-cart/includes/class-core.php:518
+#: includes/class-core.php:509 includes/class-core.php:518
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/class-customizer.php:82
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/class-customizer.php:82
+#: includes/customizer/class-customizer.php:82
+msgid "General"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/class-customizer.php:93
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/class-customizer.php:93
+#: includes/customizer/class-customizer.php:93
+msgid "Visibility"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/class-customizer.php:104
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:88
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/class-customizer.php:104
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:88
+#: includes/customizer/class-customizer.php:104 includes/kirki/example.php:88
+msgid "Typography"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/class-customizer.php:115
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/class-customizer.php:115
+#: includes/customizer/class-customizer.php:115
+msgid "Cart Trigger"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/class-customizer.php:126
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/class-customizer.php:126
+#: includes/customizer/class-customizer.php:126
+msgid "Cart Header"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/class-customizer.php:137
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/class-customizer.php:137
+#: includes/customizer/class-customizer.php:137
+msgid "Cart Body"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/class-customizer.php:148
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/class-customizer.php:148
+#: includes/customizer/class-customizer.php:148
+msgid "Cart Footer"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/fields/general.php:6
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:6
+#: includes/customizer/fields/general.php:6
+msgid "Force Ajax Initialization"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/fields/general.php:7
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:7
+#: includes/customizer/fields/general.php:7
+msgid "Enable only if encountering caching issues / conflicts with your theme"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/fields/general.php:10
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:330
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:344
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:393
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:26
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:10
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:930
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:11
+#: includes/customizer/fields/body.php:330
+#: includes/customizer/fields/body.php:344
+#: includes/customizer/fields/body.php:393
+#: includes/customizer/fields/footer.php:26
+#: includes/customizer/fields/general.php:10
+#: includes/customizer/fields/general.php:930
+#: includes/customizer/fields/header.php:11
+msgid "No"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/fields/general.php:11
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:331
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:345
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:394
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:27
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:11
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:931
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:12
+#: includes/customizer/fields/body.php:331
+#: includes/customizer/fields/body.php:345
+#: includes/customizer/fields/body.php:394
+#: includes/customizer/fields/footer.php:27
+#: includes/customizer/fields/general.php:11
+#: includes/customizer/fields/general.php:931
+#: includes/customizer/fields/header.php:12
+msgid "Yes"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/include-kirki.php:66
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:108
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/include-kirki.php:66
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:108
+#: includes/customizer/include-kirki.php:66
+#: includes/kirki/docs/files/class-kirki-installer-section.php:108
+msgid "Install Now"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/include-kirki.php:72
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/include-kirki.php:72
+#: includes/customizer/include-kirki.php:72
+#, php-format
+msgid ""
+"The plugin is installed but not activated. Please <a href=\"%s\">activate "
+"it</a>."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/customizer/include-kirki.php:91
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/include-kirki.php:91
+#: includes/customizer/include-kirki.php:91
+#, php-format
+msgid ""
+"If you wish to customize the look & feel of %sXT Woo Floating Cart%s, please "
+"install the required %sXT Customizer Kit%s plugin."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/global-functions.php:281
+#: deploy/dist/premium/xt-woo-floating-cart/includes/global-functions.php:334
+#: includes/global-functions.php:334
+msgid "Loading..."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/global-functions.php:330
+#: deploy/dist/premium/xt-woo-floating-cart/includes/global-functions.php:388
+#: includes/global-functions.php:388
+msgid "Place order"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/global-functions.php:332
+#: deploy/dist/free/woo-floating-cart-lite/includes/global-functions.php:339
+#: deploy/dist/premium/xt-woo-floating-cart/includes/global-functions.php:392
+#: deploy/dist/premium/xt-woo-floating-cart/includes/global-functions.php:401
+#: includes/global-functions.php:392 includes/global-functions.php:401
+msgid "Checkout"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/global-functions.php:341
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/header.php:30
+#: deploy/dist/premium/xt-woo-floating-cart/includes/global-functions.php:405
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/header.php:30
+#: includes/global-functions.php:405 public/templates/parts/cart/header.php:30
+msgid "Cart"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/global-functions.php:357
+#: deploy/dist/premium/xt-woo-floating-cart/includes/global-functions.php:416
+#: includes/global-functions.php:416
+msgid "Please Wait..."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/global-functions.php:359
+#: deploy/dist/premium/xt-woo-floating-cart/includes/global-functions.php:420
+#: includes/global-functions.php:420
+msgid "Placing Order..."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:48
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:48
+#: includes/kirki/controls/php/class-kirki-control-background.php:48
+msgid "Background Color"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:54
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:54
+#: includes/kirki/controls/php/class-kirki-control-background.php:54
+msgid "Background Image"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:59
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-base.php:132
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:408
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:413
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:59
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-base.php:132
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:408
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:413
+#: includes/kirki/controls/php/class-kirki-control-background.php:59
+#: includes/kirki/controls/php/class-kirki-control-base.php:132
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:408
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:413
+msgid "No File Selected"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:62
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-base.php:133
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:386
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:418
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:443
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/views/image.php:37
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-image.php:50
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/list/product/actions.php:30
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:62
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-base.php:133
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:386
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:418
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:443
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/views/image.php:37
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-image.php:50
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/list/product/actions.php:30
+#: includes/kirki/controls/php/class-kirki-control-background.php:62
+#: includes/kirki/controls/php/class-kirki-control-base.php:133
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:386
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:418
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:443
+#: includes/kirki/controls/views/image.php:37
+#: includes/kirki/field/class-kirki-field-image.php:50
+#: public/templates/parts/cart/list/product/actions.php:30
+msgid "Remove"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:63
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-base.php:135
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:63
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-base.php:135
+#: includes/kirki/controls/php/class-kirki-control-background.php:63
+#: includes/kirki/controls/php/class-kirki-control-base.php:135
+msgid "Select File"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:70
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:70
+#: includes/kirki/controls/php/class-kirki-control-background.php:70
+msgid "Background Repeat"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:72
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:72
+#: includes/kirki/controls/php/class-kirki-control-background.php:72
+msgid "No Repeat"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:73
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:73
+#: includes/kirki/controls/php/class-kirki-control-background.php:73
+msgid "Repeat All"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:74
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:74
+#: includes/kirki/controls/php/class-kirki-control-background.php:74
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:75
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:75
+#: includes/kirki/controls/php/class-kirki-control-background.php:75
+msgid "Repeat Vertically"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:81
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:81
+#: includes/kirki/controls/php/class-kirki-control-background.php:81
+msgid "Background Position"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:83
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:114
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:83
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:114
+#: includes/kirki/controls/php/class-kirki-control-background.php:83
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:114
+msgid "Left Top"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:84
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:115
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:84
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:115
+#: includes/kirki/controls/php/class-kirki-control-background.php:84
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:115
+msgid "Left Center"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:85
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:116
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:85
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:116
+#: includes/kirki/controls/php/class-kirki-control-background.php:85
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:116
+msgid "Left Bottom"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:86
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:117
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:86
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:117
+#: includes/kirki/controls/php/class-kirki-control-background.php:86
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:117
+msgid "Right Top"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:87
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:118
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:87
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:118
+#: includes/kirki/controls/php/class-kirki-control-background.php:87
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:118
+msgid "Right Center"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:88
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:119
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:88
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:119
+#: includes/kirki/controls/php/class-kirki-control-background.php:88
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:119
+msgid "Right Bottom"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:89
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:120
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:89
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:120
+#: includes/kirki/controls/php/class-kirki-control-background.php:89
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:120
+msgid "Center Top"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:90
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:121
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:90
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:121
+#: includes/kirki/controls/php/class-kirki-control-background.php:90
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:121
+msgid "Center Center"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:91
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:122
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:91
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:122
+#: includes/kirki/controls/php/class-kirki-control-background.php:91
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:122
+msgid "Center Bottom"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:97
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:97
+#: includes/kirki/controls/php/class-kirki-control-background.php:97
+msgid "Background Size"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:100
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:100
+#: includes/kirki/controls/php/class-kirki-control-background.php:100
+msgid "Cover"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:103
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:103
+#: includes/kirki/controls/php/class-kirki-control-background.php:103
+msgid "Contain"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:106
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:106
+#: includes/kirki/controls/php/class-kirki-control-background.php:106
+msgid "Auto"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:113
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:113
+#: includes/kirki/controls/php/class-kirki-control-background.php:113
+msgid "Background Attachment"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:116
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:116
+#: includes/kirki/controls/php/class-kirki-control-background.php:116
+msgid "Scroll"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-background.php:119
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-background.php:119
+#: includes/kirki/controls/php/class-kirki-control-background.php:119
+msgid "Fixed"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-base.php:134
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/views/image.php:36
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-image.php:49
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-base.php:134
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/views/image.php:36
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-image.php:49
+#: includes/kirki/controls/php/class-kirki-control-base.php:134
+#: includes/kirki/controls/views/image.php:36
+#: includes/kirki/field/class-kirki-field-image.php:49
+msgid "Default"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-base.php:136
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-base.php:136
+#: includes/kirki/controls/php/class-kirki-control-base.php:136
+msgid "Standard Fonts"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-base.php:137
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-base.php:137
+#: includes/kirki/controls/php/class-kirki-control-base.php:137
+msgid "Google Fonts"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-base.php:138
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-base.php:138
+#: includes/kirki/controls/php/class-kirki-control-base.php:138
+msgid "CSS Defaults"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-base.php:139
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-base.php:139
+#: includes/kirki/controls/php/class-kirki-control-base.php:139
+msgid "Default Browser Font-Family"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimension.php:41
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:138
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimension.php:41
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:138
+#: includes/kirki/controls/php/class-kirki-control-dimension.php:41
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:138
+msgid "Invalid Value"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:102
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:102
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:123
+#: includes/kirki/controls/php/class-kirki-control-typography.php:102
+msgid "Font Size"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:124
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:124
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:124
+msgid "Font Weight"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:110
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:110
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:125
+#: includes/kirki/controls/php/class-kirki-control-typography.php:110
+msgid "Line Height"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:126
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:126
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:126
+msgid "Font Style"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:118
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:118
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:127
+#: includes/kirki/controls/php/class-kirki-control-typography.php:118
+msgid "Letter Spacing"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:126
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:126
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:128
+#: includes/kirki/controls/php/class-kirki-control-typography.php:126
+msgid "Word Spacing"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-spacing.php:32
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-spacing.php:32
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:129
+#: includes/kirki/field/class-kirki-field-spacing.php:32
+msgid "Top"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-spacing.php:33
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-spacing.php:33
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:130
+#: includes/kirki/field/class-kirki-field-spacing.php:33
+msgid "Bottom"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:145
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-spacing.php:34
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:145
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-spacing.php:34
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:131
+#: includes/kirki/controls/php/class-kirki-control-typography.php:145
+#: includes/kirki/field/class-kirki-field-spacing.php:34
+msgid "Left"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:157
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-spacing.php:35
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:157
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-spacing.php:35
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:132
+#: includes/kirki/controls/php/class-kirki-control-typography.php:157
+#: includes/kirki/field/class-kirki-field-spacing.php:35
+msgid "Right"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:151
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:151
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:133
+#: includes/kirki/controls/php/class-kirki-control-typography.php:151
+msgid "Center"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:134
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:134
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:134
+msgid "Size"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:135
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:135
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:135
+msgid "Spacing"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:136
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:136
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:136
+msgid "Width"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-dimensions.php:137
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-dimensions.php:137
+#: includes/kirki/controls/php/class-kirki-control-dimensions.php:137
+msgid "Height"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:77
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:77
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:77
+msgid "row"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:86
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:86
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:86
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:121
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:121
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:121
+msgid "Select a Page"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:227
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:227
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:227
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:376
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:381
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:376
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:381
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:376
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:381
+msgid "No Image Selected"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:391
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:391
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:391
+msgid "Add Image"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:389
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:389
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:387
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:389
+msgid "Change Image"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:423
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:423
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:423
+msgid "Add File"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-repeater.php:421
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-repeater.php:421
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:419
+#: includes/kirki/controls/php/class-kirki-control-repeater.php:421
+msgid "Change File"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-slider.php:67
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-slider.php:67
+#: includes/kirki/controls/php/class-kirki-control-slider.php:67
+msgid "Reset"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-switch.php:52
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-switch.php:39
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-switch.php:52
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-switch.php:39
+#: includes/kirki/controls/php/class-kirki-control-switch.php:52
+#: includes/kirki/field/class-kirki-field-switch.php:39
+msgid "On"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-switch.php:56
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-switch.php:40
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-switch.php:56
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-switch.php:40
+#: includes/kirki/controls/php/class-kirki-control-switch.php:56
+#: includes/kirki/field/class-kirki-field-switch.php:40
+msgid "Off"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:82
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:82
+#: includes/kirki/controls/php/class-kirki-control-typography.php:82
+msgid "Font Family"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:83
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:88
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:83
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:88
+#: includes/kirki/controls/php/class-kirki-control-typography.php:83
+#: includes/kirki/controls/php/class-kirki-control-typography.php:88
+msgid "Select Font Family"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:87
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:87
+#: includes/kirki/controls/php/class-kirki-control-typography.php:87
+msgid "Backup Font"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:93
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:93
+#: includes/kirki/controls/php/class-kirki-control-typography.php:93
+msgid "Variant"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:134
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:134
+#: includes/kirki/controls/php/class-kirki-control-typography.php:134
+msgid "Text Align"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:139
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:181
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:197
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:139
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:181
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:197
+#: includes/kirki/controls/php/class-kirki-control-typography.php:139
+#: includes/kirki/controls/php/class-kirki-control-typography.php:181
+#: includes/kirki/controls/php/class-kirki-control-typography.php:197
+msgid "Inherit"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:163
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:163
+#: includes/kirki/controls/php/class-kirki-control-typography.php:163
+msgid "Justify"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:173
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:173
+#: includes/kirki/controls/php/class-kirki-control-typography.php:173
+msgid "Text Transform"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:176
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:192
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:176
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:192
+#: includes/kirki/controls/php/class-kirki-control-typography.php:176
+#: includes/kirki/controls/php/class-kirki-control-typography.php:192
+msgid "None"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:177
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:177
+#: includes/kirki/controls/php/class-kirki-control-typography.php:177
+msgid "Capitalize"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:178
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:178
+#: includes/kirki/controls/php/class-kirki-control-typography.php:178
+msgid "Uppercase"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:179
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:179
+#: includes/kirki/controls/php/class-kirki-control-typography.php:179
+msgid "Lowercase"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:180
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:196
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:180
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:196
+#: includes/kirki/controls/php/class-kirki-control-typography.php:180
+#: includes/kirki/controls/php/class-kirki-control-typography.php:196
+msgid "Initial"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:189
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:189
+#: includes/kirki/controls/php/class-kirki-control-typography.php:189
+msgid "Text Decoration"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:193
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:193
+#: includes/kirki/controls/php/class-kirki-control-typography.php:193
+msgid "Underline"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:194
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:194
+#: includes/kirki/controls/php/class-kirki-control-typography.php:194
+msgid "Overline"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:195
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:195
+#: includes/kirki/controls/php/class-kirki-control-typography.php:195
+msgid "Line-Through"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:205
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:205
+#: includes/kirki/controls/php/class-kirki-control-typography.php:205
+msgid "Margin Top"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:213
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:213
+#: includes/kirki/controls/php/class-kirki-control-typography.php:213
+msgid "Margin Bottom"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/php/class-kirki-control-typography.php:221
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:62
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:591
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/php/class-kirki-control-typography.php:221
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:62
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:591
+#: includes/kirki/controls/php/class-kirki-control-typography.php:221
+#: includes/kirki/example.php:62 includes/kirki/example.php:591
+msgid "Color"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/views/image.php:34
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/views/image.php:39
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-image.php:47
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-image.php:52
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/views/image.php:34
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/views/image.php:39
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-image.php:47
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-image.php:52
+#: includes/kirki/controls/views/image.php:34
+#: includes/kirki/controls/views/image.php:39
+#: includes/kirki/field/class-kirki-field-image.php:47
+#: includes/kirki/field/class-kirki-field-image.php:52
+msgid "Select image"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/views/image.php:35
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-image.php:48
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/views/image.php:35
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-image.php:48
+#: includes/kirki/controls/views/image.php:35
+#: includes/kirki/field/class-kirki-field-image.php:48
+msgid "Change image"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/views/image.php:38
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-image.php:51
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/views/image.php:38
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-image.php:51
+#: includes/kirki/controls/views/image.php:38
+#: includes/kirki/field/class-kirki-field-image.php:51
+msgid "No image selected"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/controls/views/image.php:40
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-image.php:53
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/controls/views/image.php:40
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-image.php:53
+#: includes/kirki/controls/views/image.php:40
+#: includes/kirki/field/class-kirki-field-image.php:53
+msgid "Choose image"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-field.php:248
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-field.php:248
+#: includes/kirki/core/class-kirki-field.php:248
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-field.php:257
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-field.php:267
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-field.php:257
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-field.php:267
+#: includes/kirki/core/class-kirki-field.php:257
+#: includes/kirki/core/class-kirki-field.php:267
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-field.php:375
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-field.php:375
+#: includes/kirki/core/class-kirki-field.php:375
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-field.php:498
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-field.php:509
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-field.php:498
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-field.php:509
+#: includes/kirki/core/class-kirki-field.php:498
+#: includes/kirki/core/class-kirki-field.php:509
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-init.php:289
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-init.php:289
+#: includes/kirki/core/class-kirki-init.php:289
+msgid ""
+"We detected you're using Kirki_Init::get_variables(). Please use Kirki_Util::"
+"get_variables() instead."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-init.php:365
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-init.php:365
+#: includes/kirki/core/class-kirki-init.php:365
+msgid ""
+"Your theme uses a Font Awesome field for icons. To avoid issues with missing "
+"icons on your frontend we recommend you install the official Font Awesome "
+"plugin."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-init.php:368
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-init.php:368
+#: includes/kirki/core/class-kirki-init.php:368
+msgid "Install Plugin"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki-init.php:369
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:144
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:145
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki-init.php:369
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:144
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:145
+#: includes/kirki/core/class-kirki-init.php:369
+#: includes/kirki/docs/files/class-kirki-installer-section.php:144
+#: includes/kirki/docs/files/class-kirki-installer-section.php:145
+msgid "Don't show this again"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/core/class-kirki.php:237
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/core/class-kirki.php:237
+#: includes/kirki/core/class-kirki.php:237
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/deprecated/functions.php:19
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/deprecated/functions.php:19
+#: includes/kirki/deprecated/functions.php:19
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:105
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:105
+#: includes/kirki/docs/files/class-kirki-installer-section.php:105
+msgid ""
+"Please install the Kirki plugin to take full advantage of this theme's "
+"customizer capabilities"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:107
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:107
+#: includes/kirki/docs/files/class-kirki-installer-section.php:107
+msgid "Install Kirki Toolkit now"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:122
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:122
+#: includes/kirki/docs/files/class-kirki-installer-section.php:122
+msgid ""
+"You have installed Kirki. Activate it to take advantage of this theme's "
+"features in the customizer."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:124
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:124
+#: includes/kirki/docs/files/class-kirki-installer-section.php:124
+msgid "Activate Kirki Toolkit now"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:125
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:125
+#: includes/kirki/docs/files/class-kirki-installer-section.php:125
+msgid "Activate Now"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:144
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:144
+#: includes/kirki/docs/files/class-kirki-installer-section.php:144
+msgid "Dismiss"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/docs/files/class-kirki-installer-section.php:155
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/docs/files/class-kirki-installer-section.php:155
+#: includes/kirki/docs/files/class-kirki-installer-section.php:155
+msgid ""
+"Are you sure? Dismissing this message will hide the installation "
+"recommendation and you will have to manually install and activate the plugin "
+"in the future."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:45
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:45
+#: includes/kirki/example.php:45
+msgid "Kirki Demo Panel"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:46
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:46
+#: includes/kirki/example.php:46
+msgid "Contains sections for all kirki controls."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:59
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:59
+#: includes/kirki/example.php:59
+msgid "Background"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:60
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:60
+#: includes/kirki/example.php:60
+msgid "Code"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:61
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:749
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:61
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:749
+#: includes/kirki/example.php:61 includes/kirki/example.php:749
+msgid "Checkbox"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:63
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:63
+#: includes/kirki/example.php:63
+msgid "Color Palette"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:64
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:64
+#: includes/kirki/example.php:64
+msgid "Custom"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:65
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:65
+#: includes/kirki/example.php:65
+msgid "Dashicons"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:66
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:66
+#: includes/kirki/example.php:66
+msgid "Date"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:67
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:67
+#: includes/kirki/example.php:67
+msgid "Dimension"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:68
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:68
+#: includes/kirki/example.php:68
+msgid "Dimensions"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:69
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:69
+#: includes/kirki/example.php:69
+msgid "Dropdown Pages"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:70
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:70
+#: includes/kirki/example.php:70
+msgid "Editor"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:71
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:71
+#: includes/kirki/example.php:71
+msgid "Font-Awesome"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:72
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:72
+#: includes/kirki/example.php:72
+msgid "Generic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:73
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:73
+#: includes/kirki/example.php:73
+msgid "Image"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:74
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:74
+#: includes/kirki/example.php:74
+msgid "Multicheck"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:75
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:75
+#: includes/kirki/example.php:75
+msgid "Multicolor"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:76
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:76
+#: includes/kirki/example.php:76
+msgid "Number"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:77
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:77
+#: includes/kirki/example.php:77
+msgid "Palette"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:78
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:78
+#: includes/kirki/example.php:78
+msgid "Preset"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:79
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:79
+#: includes/kirki/example.php:79
+msgid "Radio"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:79
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:79
+#: includes/kirki/example.php:79
+msgid "A plain Radio control."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:80
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:80
+#: includes/kirki/example.php:80
+msgid "Radio Buttonset"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:80
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:80
+#: includes/kirki/example.php:80
+msgid ""
+"Radio-Buttonset controls are essentially radio controls with some fancy "
+"styling to make them look cooler."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:81
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:81
+#: includes/kirki/example.php:81
+msgid "Radio Image"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:81
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:81
+#: includes/kirki/example.php:81
+msgid ""
+"Radio-Image controls are essentially radio controls with some fancy styles "
+"to use images"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:82
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:82
+#: includes/kirki/example.php:82
+msgid "Repeater"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:83
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:83
+#: includes/kirki/example.php:83
+msgid "Select"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:84
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:84
+#: includes/kirki/example.php:84
+msgid "Slider"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:85
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:85
+#: includes/kirki/example.php:85
+msgid "Sortable"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:86
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:86
+#: includes/kirki/example.php:86
+msgid "Switch"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:87
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:87
+#: includes/kirki/example.php:87
+msgid "Toggle"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:105
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:105
+#: includes/kirki/example.php:105
+msgid "Test Link Section"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:107
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:107
+#: includes/kirki/example.php:107
+msgid "Pro"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:130
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:130
+#: includes/kirki/example.php:130
+msgid "Background Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:131
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:131
+#: includes/kirki/example.php:131
+msgid "Background conrols are pretty complex! (but useful if properly used)"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:153
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:153
+#: includes/kirki/example.php:153
+msgid "Code Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:154
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:173
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:483
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:494
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:846
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:857
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:882
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:154
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:173
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:483
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:494
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:846
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:857
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:882
+#: includes/kirki/example.php:154 includes/kirki/example.php:173
+#: includes/kirki/example.php:483 includes/kirki/example.php:494
+#: includes/kirki/example.php:846 includes/kirki/example.php:857
+#: includes/kirki/example.php:882
+msgid "Description"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:172
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:172
+#: includes/kirki/example.php:172
+msgid "Checkbox Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:188
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:188
+#: includes/kirki/example.php:188
+msgid "Color Control (hex-only)"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:189
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:189
+#: includes/kirki/example.php:189
+msgid "This is a color control - without alpha channel."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:199
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:199
+#: includes/kirki/example.php:199
+msgid "Color Control (with alpha channel)"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:200
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:200
+#: includes/kirki/example.php:200
+msgid "This is a color control - with alpha channel."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:213
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:213
+#: includes/kirki/example.php:213
+msgid "Color Control - hue only."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:214
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:214
+#: includes/kirki/example.php:214
+msgid "This is a color control - hue only."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:228
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:228
+#: includes/kirki/example.php:228
+msgid "Date Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:229
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:229
+#: includes/kirki/example.php:229
+msgid "This is a date control."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:242
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:242
+#: includes/kirki/example.php:242
+msgid "First Editor Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:243
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:243
+#: includes/kirki/example.php:243
+msgid "This is an editor control."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:253
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:253
+#: includes/kirki/example.php:253
+msgid "Second Editor Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:254
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:254
+#: includes/kirki/example.php:254
+msgid ""
+"This is a 2nd editor control just to check that we do not have issues with "
+"multiple instances."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:256
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:256
+#: includes/kirki/example.php:256
+msgid "Default Text"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:269
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:284
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:299
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:314
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:329
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:269
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:284
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:299
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:314
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:329
+#: includes/kirki/example.php:269 includes/kirki/example.php:284
+#: includes/kirki/example.php:299 includes/kirki/example.php:314
+#: includes/kirki/example.php:329
+msgid "Color-Palette"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:270
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:270
+#: includes/kirki/example.php:270
+msgid "This is a color-palette control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:285
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:285
+#: includes/kirki/example.php:285
+msgid "Material Design Colors - all"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:300
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:300
+#: includes/kirki/example.php:300
+msgid "Material Design Colors - primary"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:315
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:315
+#: includes/kirki/example.php:315
+msgid "Material Design Colors - red"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:330
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:330
+#: includes/kirki/example.php:330
+msgid "Material Design Colors - A100"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:350
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:350
+#: includes/kirki/example.php:350
+msgid "Dashicons Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:351
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:351
+#: includes/kirki/example.php:351
+msgid "Using a custom array of dashicons"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:370
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:370
+#: includes/kirki/example.php:370
+msgid "All Dashicons"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:371
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:371
+#: includes/kirki/example.php:371
+msgid "Showing all dashicons"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:384
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:401
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:415
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:450
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:384
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:401
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:415
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:450
+#: includes/kirki/example.php:384 includes/kirki/example.php:401
+#: includes/kirki/example.php:415 includes/kirki/example.php:450
+msgid "Dimension Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:385
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:402
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:416
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:432
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:451
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:469
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:525
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:536
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:550
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:385
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:402
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:416
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:432
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:451
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:469
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:525
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:536
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:550
+#: includes/kirki/example.php:385 includes/kirki/example.php:402
+#: includes/kirki/example.php:416 includes/kirki/example.php:432
+#: includes/kirki/example.php:451 includes/kirki/example.php:469
+#: includes/kirki/example.php:525 includes/kirki/example.php:536
+#: includes/kirki/example.php:550
+msgid "Description Here."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:431
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:431
+#: includes/kirki/example.php:431
+msgid "Spacing Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:468
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:468
+#: includes/kirki/example.php:468
+msgid "Font Awesome Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:482
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:482
+#: includes/kirki/example.php:482
+msgid "Text Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:493
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:493
+#: includes/kirki/example.php:493
+msgid "Textarea Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:504
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:504
+#: includes/kirki/example.php:504
+msgid "Custom input Control."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:505
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:505
+#: includes/kirki/example.php:505
+msgid ""
+"The \"generic\" control allows you to add any input type you want. In this "
+"case we use type=\"password\" and define custom styles."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:524
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:524
+#: includes/kirki/example.php:524
+msgid "Image Control (URL)"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:535
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:535
+#: includes/kirki/example.php:535
+msgid "Image Control (ID)"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:549
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:549
+#: includes/kirki/example.php:549
+msgid "Image Control (array)"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:566
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:566
+#: includes/kirki/example.php:566
+msgid "Multickeck Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:571
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:653
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:674
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:769
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:788
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:828
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:571
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:653
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:674
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:769
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:788
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:828
+#: includes/kirki/example.php:571 includes/kirki/example.php:653
+#: includes/kirki/example.php:674 includes/kirki/example.php:769
+#: includes/kirki/example.php:788 includes/kirki/example.php:828
+msgid "Option 1"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:572
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:654
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:675
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:770
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:789
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:829
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:572
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:654
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:675
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:770
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:789
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:829
+#: includes/kirki/example.php:572 includes/kirki/example.php:654
+#: includes/kirki/example.php:675 includes/kirki/example.php:770
+#: includes/kirki/example.php:789 includes/kirki/example.php:829
+msgid "Option 2"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:573
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:655
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:676
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:771
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:790
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:830
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:573
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:655
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:676
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:771
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:790
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:830
+#: includes/kirki/example.php:573 includes/kirki/example.php:655
+#: includes/kirki/example.php:676 includes/kirki/example.php:771
+#: includes/kirki/example.php:790 includes/kirki/example.php:830
+msgid "Option 3"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:574
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:656
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:772
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:791
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:831
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:574
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:656
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:772
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:791
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:831
+#: includes/kirki/example.php:574 includes/kirki/example.php:656
+#: includes/kirki/example.php:772 includes/kirki/example.php:791
+#: includes/kirki/example.php:831
+msgid "Option 4"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:575
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:657
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:773
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:792
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:832
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:575
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:657
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:773
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:792
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:832
+#: includes/kirki/example.php:575 includes/kirki/example.php:657
+#: includes/kirki/example.php:773 includes/kirki/example.php:792
+#: includes/kirki/example.php:832
+msgid "Option 5"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:587
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:611
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:629
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:587
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:611
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:629
+#: includes/kirki/example.php:587 includes/kirki/example.php:611
+#: includes/kirki/example.php:629
+msgid "Label"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:592
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:592
+#: includes/kirki/example.php:592
+msgid "Hover"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:593
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:593
+#: includes/kirki/example.php:593
+msgid "Active"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:648
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:648
+#: includes/kirki/example.php:648
+msgid "Radio Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:649
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:670
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:689
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:708
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:764
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:783
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:805
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:649
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:670
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:689
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:708
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:764
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:783
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:805
+#: includes/kirki/example.php:649 includes/kirki/example.php:670
+#: includes/kirki/example.php:689 includes/kirki/example.php:708
+#: includes/kirki/example.php:764 includes/kirki/example.php:783
+#: includes/kirki/example.php:805
+msgid "The description here."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:669
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:669
+#: includes/kirki/example.php:669
+msgid "Radio-Buttonset Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:688
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:688
+#: includes/kirki/example.php:688
+msgid "Radio-Image Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:707
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:707
+#: includes/kirki/example.php:707
+msgid "Repeater Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:712
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:712
+#: includes/kirki/example.php:712
+msgid "Kirki Site"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:718
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:718
+#: includes/kirki/example.php:718
+msgid "Kirki Repository"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:727
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:727
+#: includes/kirki/example.php:727
+msgid "Link Text"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:728
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:728
+#: includes/kirki/example.php:728
+msgid "This will be the label for your link"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:733
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:733
+#: includes/kirki/example.php:733
+msgid "Link URL"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:734
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:734
+#: includes/kirki/example.php:734
+msgid "This will be the link URL"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:739
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:739
+#: includes/kirki/example.php:739
+msgid "Link Target"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:740
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:740
+#: includes/kirki/example.php:740
+msgid "This will be the link target"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:743
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:743
+#: includes/kirki/example.php:743
+msgid "New Window"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:744
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:744
+#: includes/kirki/example.php:744
+msgid "Same Frame"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:763
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:782
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:763
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:782
+#: includes/kirki/example.php:763 includes/kirki/example.php:782
+msgid "Select Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:767
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:767
+#: includes/kirki/example.php:767
+msgid "Select an option"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:804
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:804
+#: includes/kirki/example.php:804
+msgid "Slider Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:824
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:824
+#: includes/kirki/example.php:824
+msgid "This is a sortable control."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:833
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:833
+#: includes/kirki/example.php:833
+msgid "Option 6"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:845
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:845
+#: includes/kirki/example.php:845
+msgid "Switch Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:856
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:856
+#: includes/kirki/example.php:856
+msgid "Switch Control with custom labels"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:861
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:861
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:383
+#: includes/kirki/example.php:861
+#: includes/license/includes/class-license.php:383
+msgid "Enabled"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:862
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:862
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:410
+#: includes/kirki/example.php:862
+#: includes/license/includes/class-license.php:410
+msgid "Disabled"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:881
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:881
+#: includes/kirki/example.php:881
+msgid "Toggle Control"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:906
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:960
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:906
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:960
+#: includes/kirki/example.php:906 includes/kirki/example.php:960
+msgid "Typography Control Label"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:907
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:961
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:907
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:961
+#: includes/kirki/example.php:907 includes/kirki/example.php:961
+msgid "The full set of options."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:998
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:998
+#: includes/kirki/example.php:998
+msgid "Sidebars Select"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/example.php:999
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/example.php:999
+#: includes/kirki/example.php:999
+msgid "An example of how to implement sidebars selection."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-color.php:52
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-color.php:52
+#: includes/kirki/field/class-kirki-field-color.php:52
+msgid ""
+"Do not use \"alpha\" as an argument in color controls. Use "
+"\"choices[alpha]\" instead."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/field/class-kirki-field-radio.php:37
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/field/class-kirki-field-radio.php:37
+#: includes/kirki/field/class-kirki-field-radio.php:37
+#, php-format
+msgid ""
+"Error in field %1$s. The \"mode\" argument has been deprecated since Kirki "
+"v0.8. Use the \"radio-%2$s\" type instead."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+#: includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:61
+msgid "Customizing"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#: includes/kirki/modules/custom-sections/sections/class-kirki-sections-nested-section.php:64
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:146
+msgid "Help us improve Kirki."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:147
+msgid ""
+"Help us begin a dialogue with theme developers, collaborate and improve both "
+"the theme you are using and the Kirki framework by agreeing to send "
+"anonymous data. <strong>The data is completely anonymous and we will never "
+"collect any identifyable information about you or your website.</strong>"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:151
+msgid "Data that will be sent"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:156
+msgid "PHP Version"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:160
+msgid "Theme Name"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:164
+msgid "Theme Author"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:168
+msgid "Theme URI"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:172
+msgid "Field Types Used"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:182
+#, php-format
+msgid ""
+"We believe in complete transparency. You can see the code used on our server "
+"<a href=\"%1$s\" rel=\"nofollow\">here</a>, and the results of the "
+"statistics we're gathering on <a href=\"%2$s\" rel=\"nofollow\">this page</"
+"a>."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:193
+msgid "I agree"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:194
+msgid "No thanks"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:195
+msgid "Show me the data"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:196
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:196
+#: includes/kirki/modules/telemetry/class-kirki-modules-telemetry.php:196
+msgid "Collapse data"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:214
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:214
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:215
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:214
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:215
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:216
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:216
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:216
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:217
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:217
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:217
+msgid "Light 200"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:218
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:218
+msgid "Light 200 Italic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:219
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:219
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:219
+msgid "Book 300"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:220
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:220
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:220
+msgid "Book 300 Italic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:222
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:222
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:221
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:222
+msgid "Normal 400"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:223
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:223
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:223
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:224
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:224
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:224
+msgid "Medium 500"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:225
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:225
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:225
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:227
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:227
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:226
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:227
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:228
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:228
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:228
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:229
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:229
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:229
+msgid "Bold 700"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:230
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:230
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:230
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:231
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:232
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:231
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:232
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:231
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:232
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:233
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:233
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:233
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:234
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:235
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:234
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:235
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:234
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:235
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/modules/webfonts/class-kirki-fonts.php:236
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/modules/webfonts/class-kirki-fonts.php:236
+#: includes/kirki/modules/webfonts/class-kirki-fonts.php:236
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/includes/kirki/upgrade-notifications.php:30
+#: deploy/dist/premium/xt-woo-floating-cart/includes/kirki/upgrade-notifications.php:30
+#: includes/kirki/upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/class-ajax.php:186
+#: deploy/dist/premium/xt-woo-floating-cart/public/class-ajax.php:178
+#: public/class-ajax.php:178
+msgid "Sorry there was a problem removing this coupon."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/class-ajax.php:189
+#: deploy/dist/premium/xt-woo-floating-cart/public/class-ajax.php:181
+#: public/class-ajax.php:181
+msgid "Coupon has been removed."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/class-public.php:254
+#: deploy/dist/premium/xt-woo-floating-cart/public/class-public.php:255
+#: public/class-public.php:255
+msgid "Please wait"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/class-public.php:255
+#: deploy/dist/premium/xt-woo-floating-cart/public/class-public.php:256
+#: public/class-public.php:256
+msgid "Loading"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/class-public.php:256
+#: deploy/dist/premium/xt-woo-floating-cart/public/class-public.php:257
+#: public/class-public.php:257
+msgid "Min quantity required"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/class-public.php:257
+#: deploy/dist/premium/xt-woo-floating-cart/public/class-public.php:258
+#: public/class-public.php:258
+msgid "Stock limit reached"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/coupon.php:29
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/coupon.php:29
+#: public/templates/parts/cart/coupon.php:29
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/coupon.php:32
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/coupon.php:32
+#: public/templates/parts/cart/coupon.php:32
+msgid "Coupon code"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/coupon.php:36
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/coupon.php:36
+#: public/templates/parts/cart/coupon.php:36
+msgid "Apply coupon"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/header.php:34
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/header.php:34
+#: public/templates/parts/cart/header.php:34
+msgid "Item Removed."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/header.php:35
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/header.php:35
+#: public/templates/parts/cart/header.php:35
+msgid "Undo"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/header.php:41
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/header.php:41
+#: public/templates/parts/cart/header.php:41
+msgid "Have a coupon ?"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/list/empty.php:28
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/list/empty.php:28
+#: public/templates/parts/cart/list/empty.php:28
+msgid "No products in the cart."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/list/product/attributes.php:46
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/list/product/attributes.php:46
+#: public/templates/parts/cart/list/product/attributes.php:46
+msgid "SKU: "
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/shipping.php:56
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/shipping.php:56
+#: public/templates/parts/cart/shipping.php:56
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/shipping.php:57
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/shipping.php:57
+#: public/templates/parts/cart/shipping.php:57
+msgid "Change address"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/shipping.php:59
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/shipping.php:59
+#: public/templates/parts/cart/shipping.php:59
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/shipping.php:66
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/shipping.php:66
+#: public/templates/parts/cart/shipping.php:66
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/shipping.php:69
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/shipping.php:69
+#: public/templates/parts/cart/shipping.php:69
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/shipping.php:70
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/shipping.php:70
+#: public/templates/parts/cart/shipping.php:70
+msgid "Enter a different address"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/totals.php:39
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/totals.php:40
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/totals.php:39
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/totals.php:40
+#: public/templates/parts/cart/totals.php:39
+#: public/templates/parts/cart/totals.php:40
+msgid "Subtotal"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/totals.php:61
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/totals.php:62
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/totals.php:61
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/totals.php:62
+#: public/templates/parts/cart/totals.php:61
+#: public/templates/parts/cart/totals.php:62
+msgid "Shipping"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/totals.php:77
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/totals.php:77
+#: public/templates/parts/cart/totals.php:77
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/totals.php:98
+#: deploy/dist/free/woo-floating-cart-lite/public/templates/parts/cart/totals.php:99
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/totals.php:98
+#: deploy/dist/premium/xt-woo-floating-cart/public/templates/parts/cart/totals.php:99
+#: public/templates/parts/cart/totals.php:98
+#: public/templates/parts/cart/totals.php:99
+msgid "Total"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: deploy/dist/free/woo-floating-cart-lite/xt-woo-floating-cart.php:36
+#: deploy/dist/premium/xt-woo-floating-cart/xt-woo-floating-cart.php:37
+#: xt-woo-floating-cart.php:37
+msgid "XT Woo Floating Cart"
+msgstr ""
+
+#: deploy/dist/free/woo-floating-cart-lite/xt-woo-floating-cart.php:37
+#: deploy/dist/premium/xt-woo-floating-cart/xt-woo-floating-cart.php:38
+#: xt-woo-floating-cart.php:38
+msgid "Woo Floating Cart"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:8
+#: includes/customizer/fields/body.php:8
+msgid "Cart Body Bg Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:24
+#: includes/customizer/fields/body.php:24
+msgid "Cart Body Text Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:40
+#: includes/customizer/fields/body.php:40
+msgid "Cart Body Link Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:56
+#: includes/customizer/fields/body.php:56
+msgid "Cart Body Link Hover Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:72
+#: includes/customizer/fields/body.php:72
+msgid "Cart Body Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:98
+#: includes/customizer/fields/body.php:98
+msgid "Cart Product Title Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:114
+#: includes/customizer/fields/body.php:114
+msgid "Cart Product Title Hover Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:130
+#: includes/customizer/fields/body.php:130
+msgid "Cart Product Price Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:147
+#: includes/customizer/fields/body.php:147
+msgid "Cart Product Remove Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:163
+#: includes/customizer/fields/body.php:163
+msgid "Cart Product Remove Hover Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:181
+#: includes/customizer/fields/body.php:181
+msgid "Cart Product Qty Plus Minus Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:196
+#: includes/customizer/fields/body.php:196
+msgid "Cart Product Qty Plus Minus Hover Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:212
+#: includes/customizer/fields/body.php:212
+msgid "Cart Product Qty Input Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:228
+#: includes/customizer/fields/body.php:228
+msgid "Cart Product Qty Plus Minus Size"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:257
+#: includes/customizer/fields/body.php:257
+msgid "Cart Product Qty Input Size"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:286
+#: includes/customizer/fields/body.php:286
+msgid "Show Product Sku"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:296
+#: includes/customizer/fields/body.php:296
+msgid "Show Product Attributes"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:306
+#: includes/customizer/fields/body.php:306
+msgid "Show Bundled Products Items"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:316
+#: includes/customizer/fields/body.php:316
+msgid "Show Composite Products Items"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:327
+#: includes/customizer/fields/body.php:327
+msgid "Link Product to Single Page"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:341
+#: includes/customizer/fields/body.php:341
+msgid "Hide Product Thumb"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:362
+#: includes/customizer/fields/body.php:362
+msgid "Product Attributes Display Type"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:365
+#: includes/customizer/fields/body.php:365
+msgid "List"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:366
+#: includes/customizer/fields/body.php:366
+msgid "Inline"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:390
+#: includes/customizer/fields/body.php:390
+msgid "Hide attribute labels, show values only"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/body.php:411
+#: includes/customizer/fields/body.php:411
+msgid "Cart Product Attributes Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:9
+#: includes/customizer/fields/footer.php:9
+msgid "Enable Checkout Form"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:10
+#: includes/customizer/fields/footer.php:10
+#, php-format
+msgid ""
+"This option will load the checkout form below the cart list and will "
+"transform the %1$sCheckout%2$s button into a %1$sPlace Order%2$s button. If "
+"checkout registration is disabled and not logged in, this option will be "
+"disabled."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:13
+#: includes/customizer/fields/footer.php:13
+msgid "Enable"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:14
+#: includes/customizer/fields/footer.php:14
+msgid "Disable"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:23
+#: includes/customizer/fields/footer.php:23
+msgid "Enable Totals"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:43
+#: includes/customizer/fields/footer.php:43
+msgid "Cart Checkout Action"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:46
+#: includes/customizer/fields/footer.php:46
+msgid "Go to Checkout Page"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:47
+#: includes/customizer/fields/footer.php:47
+msgid "Go to Cart Page"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:63
+#: includes/customizer/fields/footer.php:63
+msgid "Cart Checkout Button Bg Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:78
+#: includes/customizer/fields/footer.php:78
+msgid "Cart Checkout Button Bg Hover Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:94
+#: includes/customizer/fields/footer.php:94
+msgid "Cart Checkout Button Text Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/footer.php:109
+#: includes/customizer/fields/footer.php:109
+msgid "Cart Checkout Button Text Hover Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:23
+#: includes/customizer/fields/general.php:23
+msgid "Trigger / Cart Position (Desktop)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:27
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:57
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:87
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:118
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:142
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:166
+#: includes/customizer/fields/general.php:27
+#: includes/customizer/fields/general.php:57
+#: includes/customizer/fields/general.php:87
+#: includes/customizer/fields/general.php:118
+#: includes/customizer/fields/general.php:142
+#: includes/customizer/fields/general.php:166
+msgid "Top Left"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:28
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:58
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:88
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:119
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:143
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:167
+#: includes/customizer/fields/general.php:28
+#: includes/customizer/fields/general.php:58
+#: includes/customizer/fields/general.php:88
+#: includes/customizer/fields/general.php:119
+#: includes/customizer/fields/general.php:143
+#: includes/customizer/fields/general.php:167
+msgid "Top Right"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:29
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:59
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:89
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:120
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:144
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:168
+#: includes/customizer/fields/general.php:29
+#: includes/customizer/fields/general.php:59
+#: includes/customizer/fields/general.php:89
+#: includes/customizer/fields/general.php:120
+#: includes/customizer/fields/general.php:144
+#: includes/customizer/fields/general.php:168
+msgid "Bottom Left"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:30
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:60
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:90
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:121
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:145
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:169
+#: includes/customizer/fields/general.php:30
+#: includes/customizer/fields/general.php:60
+#: includes/customizer/fields/general.php:90
+#: includes/customizer/fields/general.php:121
+#: includes/customizer/fields/general.php:145
+#: includes/customizer/fields/general.php:169
+msgid "Bottom Right"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:53
+#: includes/customizer/fields/general.php:53
+msgid "Trigger / Cart Position (Tablet)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:83
+#: includes/customizer/fields/general.php:83
+msgid "Trigger / Cart Position (Mobile)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:114
+#: includes/customizer/fields/general.php:114
+msgid "Product Counter Position (Desktop)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:138
+#: includes/customizer/fields/general.php:138
+msgid "Product Counter Position (Tablet)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:162
+#: includes/customizer/fields/general.php:162
+msgid "Product Counter Position (Mobile)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:186
+#: includes/customizer/fields/general.php:186
+msgid "Trigger Size (Desktop)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:260
+#: includes/customizer/fields/general.php:260
+msgid "Trigger Size (Tablet)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:334
+#: includes/customizer/fields/general.php:334
+msgid "Trigger Size (Mobile)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:408
+#: includes/customizer/fields/general.php:408
+msgid "Product Counter Size (Desktop)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:446
+#: includes/customizer/fields/general.php:446
+msgid "Product Counter Size (Tablet)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:484
+#: includes/customizer/fields/general.php:484
+msgid "Product Counter Size (Mobile)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:522
+#: includes/customizer/fields/general.php:522
+msgid "Horizontal Offset (Desktop)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:554
+#: includes/customizer/fields/general.php:554
+msgid "Horizontal Offset (Tablet)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:586
+#: includes/customizer/fields/general.php:586
+msgid "Horizontal Offset (Mobile)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:618
+#: includes/customizer/fields/general.php:618
+msgid "Vertical Offset (Desktop)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:661
+#: includes/customizer/fields/general.php:661
+msgid "Vertical Offset (Tablet)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:704
+#: includes/customizer/fields/general.php:704
+msgid "Vertical Offset (Mobile)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:747
+#: includes/customizer/fields/general.php:747
+msgid "Cart Width"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:769
+#: includes/customizer/fields/general.php:769
+msgid "Cart Height"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:792
+#: includes/customizer/fields/general.php:792
+msgid "Border Radius"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:857
+#: includes/customizer/fields/general.php:857
+msgid "Enable Fly To Cart animation"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:866
+#: includes/customizer/fields/general.php:866
+msgid "Fly To Cart animation Duration (ms)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:895
+#: includes/customizer/fields/general.php:895
+msgid "Lock Scroll when Active"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:896
+#: includes/customizer/fields/general.php:896
+msgid "When the floating cart is open, lock main site body scroll"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:905
+#: includes/customizer/fields/general.php:905
+msgid "Shake Trigger after adding products"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:909
+#: includes/customizer/fields/general.php:909
+msgid "No Shake"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:910
+#: includes/customizer/fields/general.php:910
+msgid "Horizontal Shake"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:911
+#: includes/customizer/fields/general.php:911
+msgid "Vertical Shake"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:927
+#: includes/customizer/fields/general.php:927
+msgid "Open cart after adding products"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:948
+#: includes/customizer/fields/general.php:948
+msgid "Loading Spinner"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:952
+#: includes/customizer/fields/general.php:952
+msgid "No Spinner"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:953
+#: includes/customizer/fields/general.php:953
+msgid "Rotating Plane"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:954
+#: includes/customizer/fields/general.php:954
+msgid "Double Bounce"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:955
+#: includes/customizer/fields/general.php:955
+msgid "Wave"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:956
+#: includes/customizer/fields/general.php:956
+msgid "Wandering Cubes"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:957
+#: includes/customizer/fields/general.php:957
+msgid "Pulse"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:958
+#: includes/customizer/fields/general.php:958
+msgid "Chasing Dots"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:959
+#: includes/customizer/fields/general.php:959
+msgid "Three Bounce"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:960
+#: includes/customizer/fields/general.php:960
+msgid "Circle"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:961
+#: includes/customizer/fields/general.php:961
+msgid "Cube Grid"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:962
+#: includes/customizer/fields/general.php:962
+msgid "Fading Circle"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:963
+#: includes/customizer/fields/general.php:963
+msgid "Folding Cube"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:964
+#: includes/customizer/fields/general.php:964
+msgid "Boring Loading Text"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:980
+#: includes/customizer/fields/general.php:980
+msgid "Loading Spinner Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:1012
+#: includes/customizer/fields/general.php:1012
+msgid "Loading Overlay Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/general.php:1028
+#: includes/customizer/fields/general.php:1028
+msgid "Loading Spinner Extra Delay (ms)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:8
+#: includes/customizer/fields/header.php:8
+msgid "Enable Coupons"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:21
+#: includes/customizer/fields/header.php:21
+msgid "Cart Header Bg Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:37
+#: includes/customizer/fields/header.php:37
+msgid "Cart Header Bottom Border Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:53
+#: includes/customizer/fields/header.php:53
+msgid "Cart Header Title Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:69
+#: includes/customizer/fields/header.php:69
+msgid "Cart Header Text Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:85
+#: includes/customizer/fields/header.php:85
+msgid "Cart Header Link Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:100
+#: includes/customizer/fields/header.php:100
+msgid "Cart Header Link Hover Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/header.php:116
+#: includes/customizer/fields/header.php:116
+msgid "Cart Header Error Message Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:8
+#: includes/customizer/fields/trigger.php:8
+msgid "Trigger Event Type"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:11
+#: includes/customizer/fields/trigger.php:11
+msgid "Click Only"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:12
+#: includes/customizer/fields/trigger.php:12
+msgid "Mouse Over Or Click"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:21
+#: includes/customizer/fields/trigger.php:21
+msgid "Mouse Over delay before trigger (ms)"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:42
+#: includes/customizer/fields/trigger.php:42
+msgid "Hide WooCommerce View Cart Link after trigger"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:51
+#: includes/customizer/fields/trigger.php:51
+msgid "Trigger Icon Type"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:54
+#: includes/customizer/fields/trigger.php:54
+msgid "Image / SVG"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:55
+#: includes/customizer/fields/trigger.php:55
+msgid "Font Icon"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:72
+#: includes/customizer/fields/trigger.php:72
+msgid "Cart Trigger Icon"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:96
+#: includes/customizer/fields/trigger.php:96
+msgid "Cart Trigger Close Icon"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:120
+#: includes/customizer/fields/trigger.php:120
+msgid "Cart Trigger Icon Image"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:143
+#: includes/customizer/fields/trigger.php:143
+msgid "Cart Trigger Close Icon Image"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:166
+#: includes/customizer/fields/trigger.php:166
+msgid "Cart Trigger Icon Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:189
+#: includes/customizer/fields/trigger.php:189
+msgid "Cart Trigger Close Icon Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:212
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:228
+#: includes/customizer/fields/trigger.php:212
+#: includes/customizer/fields/trigger.php:228
+msgid "Cart Trigger Bg Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:244
+#: includes/customizer/fields/trigger.php:244
+msgid "Cart Trigger Hover Bg Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:260
+#: includes/customizer/fields/trigger.php:260
+msgid "Cart Trigger Active Bg Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:276
+#: includes/customizer/fields/trigger.php:276
+msgid "Product Counter Bg Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/trigger.php:292
+#: includes/customizer/fields/trigger.php:292
+msgid "Product Counter Text Color"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:10
+#: includes/customizer/fields/typography.php:10
+msgid "Product Counter Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:30
+#: includes/customizer/fields/typography.php:30
+msgid "Header Title Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:52
+#: includes/customizer/fields/typography.php:52
+msgid "Header Message Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:74
+#: includes/customizer/fields/typography.php:74
+msgid "Header Error Message Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:96
+#: includes/customizer/fields/typography.php:96
+msgid "No Products Message Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:119
+#: includes/customizer/fields/typography.php:119
+msgid "Product Title / Price Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:148
+#: includes/customizer/fields/typography.php:148
+msgid "Product Attributes Label Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:174
+#: includes/customizer/fields/typography.php:174
+msgid "Product Attributes Values Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:200
+#: includes/customizer/fields/typography.php:200
+msgid "Product Remove Link Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:230
+#: includes/customizer/fields/typography.php:230
+msgid "Product Quantity Input Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/typography.php:258
+#: includes/customizer/fields/typography.php:258
+msgid "Footer Checkout Button Typography"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/visibility.php:8
+#: includes/customizer/fields/visibility.php:8
+msgid "Hide cart on these pages"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/visibility.php:9
+#: includes/customizer/fields/visibility.php:9
+msgid ""
+"Note: The cart is automatically disabled on WooCommerce native cart / "
+"checkout pages"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/visibility.php:20
+#: includes/customizer/fields/visibility.php:20
+msgid "Keep visible on empty"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/visibility.php:29
+#: includes/customizer/fields/visibility.php:29
+msgid "Device Visibility"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/visibility.php:32
+#: includes/customizer/fields/visibility.php:32
+msgid "Show on mobile only"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/visibility.php:33
+#: includes/customizer/fields/visibility.php:33
+msgid "Show on tablet and mobile"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/visibility.php:34
+#: includes/customizer/fields/visibility.php:34
+msgid "Show on tablet and desktop"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/visibility.php:35
+#: includes/customizer/fields/visibility.php:35
+msgid "Show on desktop only"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/customizer/fields/visibility.php:36
+#: includes/customizer/fields/visibility.php:36
+msgid "Show on all"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/freemius-migration/class-fs-client-migration-abstract.php:158
+#: includes/freemius-migration/class-fs-client-migration-abstract.php:158
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:74
+#: includes/license/includes/class-license.php:74
+msgid "Activate License"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:77
+#: includes/license/includes/class-license.php:77
+msgid "License Activated"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:84
+#: includes/license/includes/class-license.php:84
+msgid "License"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:293
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:369
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:396
+#: includes/license/includes/class-license.php:293
+#: includes/license/includes/class-license.php:369
+#: includes/license/includes/class-license.php:396
+#, php-format
+msgid "Your license of %1$s is %2$s."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:295
+#: includes/license/includes/class-license.php:295
+msgid "Not Activated"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:322
+#: includes/license/includes/class-license.php:322
+msgid "Validate"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:328
+#: includes/license/includes/class-license.php:328
+#, php-format
+msgid "This %1$s is activated somewhere else."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:336
+#: includes/license/includes/class-license.php:336
+msgid "Cancel"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:338
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:435
+#: includes/license/includes/class-license.php:338
+#: includes/license/includes/class-license.php:435
+msgid "Buy License"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:339
+#: includes/license/includes/class-license.php:339
+msgid "Revoke"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:349
+#: includes/license/includes/class-license.php:349
+#, php-format
+msgid "This %1$s is %2$s."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:351
+#: includes/license/includes/class-license.php:351
+msgid "Invalid"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:371
+#: includes/license/includes/class-license.php:371
+msgid "Activated"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:382
+#: includes/license/includes/class-license.php:382
+#, php-format
+msgid "Automated updates are now %1$s"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:398
+#: includes/license/includes/class-license.php:398
+msgid "Expired"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:409
+#: includes/license/includes/class-license.php:409
+#, php-format
+msgid "Automated updates are %1$s"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/class-license.php:436
+#: includes/license/includes/class-license.php:436
+msgid "Revoke License"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:54
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:77
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:128
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:128
+msgid "Check for updates"
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:213
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:215
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:217
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:223
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Plugin/Ui.php:223
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: deploy/dist/premium/xt-woo-floating-cart/includes/license/includes/plugin-update-checker/Puc/v4p5/Vcs/PluginUpdateChecker.php:98
+#: includes/license/includes/plugin-update-checker/Puc/v4p5/Vcs/PluginUpdateChecker.php:98
+msgid "There is no changelog available."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://xplodedthemes.com/products/woo-floating-cart/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An Interactive Floating Cart for WooCommerce that slides in when the user "
+"decides to buy an item. Fully customizable right from WordPress Customizer "
+"with Live Preview. Products, quantities and prices are updated instantly via "
+"Ajax."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "XplodedThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://xplodedthemes.com"
+msgstr ""

@@ -1,0 +1,46 @@
+.woocommerce,
+.woocommerce-page,
+body {
+
+  .select2-dropdown{
+    z-index: 99999;
+  }
+
+  .xt_woofc {
+
+    .xt_woofc-checkout-form {
+      padding:15px;
+      border-top: 1px solid #eaeaea;
+      margin-top: -1px;
+
+      .blockUI {
+        display:none!important
+      }
+
+      h3{
+        font-size:1.8em;
+        font-weight: 600;
+        margin-bottom:10px;
+      }
+
+      .woocommerce-shipping-fields{
+        margin-top: 10px;
+      }
+
+      form .form-row{
+        padding:0;
+      }
+
+      #order_review, #order_review_heading {
+        width: 100%;
+        float: none;
+        clear: initial;
+      }
+
+      #payment .place-order .button{
+        display:none!important;
+      }
+
+    }
+  }
+}

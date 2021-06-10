@@ -1,0 +1,1 @@
+jQuery(document).on("change",".flexible-shipping-collection-point-select",function(){jQuery(document.body).trigger("update_checkout")});

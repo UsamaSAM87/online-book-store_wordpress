@@ -1,0 +1,75 @@
+.preview-desktop {
+
+  #customize-control-xt_woofc-position_mobile,
+  #customize-control-xt_woofc-position_tablet,
+  #customize-control-xt_woofc-counter_position_mobile,
+  #customize-control-xt_woofc-counter_position_tablet,
+  #customize-control-xt_woofc-trigger_size_mobile,
+  #customize-control-xt_woofc-trigger_size_tablet,
+  #customize-control-xt_woofc-counter_size_mobile,
+  #customize-control-xt_woofc-counter_size_tablet,
+  #customize-control-xt_woofc-hoffset_mobile,
+  #customize-control-xt_woofc-hoffset_tablet,
+  #customize-control-xt_woofc-voffset_mobile,
+  #customize-control-xt_woofc-voffset_tablet{
+    display:none!important;
+  }
+  #customize-control-xt_woofc-position,
+  #customize-control-xt_woofc-counter_position,
+  #customize-control-xt_woofc-trigger_size,
+  #customize-control-xt_woofc-counter_size,
+  #customize-control-xt_woofc-hoffset,
+  #customize-control-xt_woofc-voffset{
+    display:list-item!important;
+  }
+}
+.preview-tablet{
+
+  #customize-control-xt_woofc-position,
+  #customize-control-xt_woofc-position_mobile,
+  #customize-control-xt_woofc-counter_position,
+  #customize-control-xt_woofc-counter_position_mobile,
+  #customize-control-xt_woofc-trigger_size,
+  #customize-control-xt_woofc-trigger_size_mobile,
+  #customize-control-xt_woofc-counter_size,
+  #customize-control-xt_woofc-counter_size_mobile,
+  #customize-control-xt_woofc-hoffset,
+  #customize-control-xt_woofc-hoffset_mobile,
+  #customize-control-xt_woofc-voffset,
+  #customize-control-xt_woofc-voffset_mobile{
+    display:none!important;
+  }
+  #customize-control-xt_woofc-position_tablet,
+  #customize-control-xt_woofc-counter_position_tablet,
+  #customize-control-xt_woofc-trigger_size_tablet,
+  #customize-control-xt_woofc-counter_size_tablet,
+  #customize-control-xt_woofc-hoffset_tablet,
+  #customize-control-xt_woofc-voffset_tablet{
+    display:list-item!important;
+  }
+}
+.preview-mobile{
+
+  #customize-control-xt_woofc-position,
+  #customize-control-xt_woofc-position_tablet,
+  #customize-control-xt_woofc-counter_position,
+  #customize-control-xt_woofc-counter_position_tablet,
+  #customize-control-xt_woofc-trigger_size,
+  #customize-control-xt_woofc-trigger_size_tablet,
+  #customize-control-xt_woofc-counter_size,
+  #customize-control-xt_woofc-counter_size_tablet,
+  #customize-control-xt_woofc-hoffset,
+  #customize-control-xt_woofc-hoffset_tablet,
+  #customize-control-xt_woofc-voffset,
+  #customize-control-xt_woofc-voffset_tablet{
+    display:none!important;
+  }
+  #customize-control-xt_woofc-position_mobile,
+  #customize-control-xt_woofc-counter_position_mobile,
+  #customize-control-xt_woofc-trigger_size_mobile,
+  #customize-control-xt_woofc-counter_size_mobile,
+  #customize-control-xt_woofc-hoffset_mobile,
+  #customize-control-xt_woofc-voffset_mobile{
+    display:list-item!important;
+  }
+}

@@ -1,0 +1,15 @@
+/*
+ *  Usage:
+ *
+      <div class="xt_woofc-spinner-loading-text">Loading...</div>
+ *
+ */
+@import "../variables";
+
+.xt_woofc-spinner-loading-text {
+  	width: 100%;
+  	color: $spinkit-spinner-color;
+  	font-size: 20px;
+  	margin: $spinkit-spinner-margin;
+  	text-align: center;
+}

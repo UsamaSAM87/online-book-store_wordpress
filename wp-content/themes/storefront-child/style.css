@@ -1,0 +1,33 @@
+/* 
+Theme Name:		 Storefront Child Theme
+Theme URI:		 http://www.websitebundles.com/
+Description:	 Theme by Site <a href=\"http://childthemegenerator.com/\">http://childthemegenerator.com/</a>
+Author:			 WebsiteBundles
+Author URI:		 http://childthemegenerator.com/
+Template:		 storefront
+Version:		 1.0.0
+Text Domain:	 Storefront-child
+-------------------------------------------------------------- */ 
+
+/* =Theme customization starts here
+------------------------------------------------------- */
+.site-header {
+	background-color: #002120;
+}
+
+.main-navigation ul li a:hover,
+.main-navigation ul li:hover > a,
+.site-title a:hover,
+.site-header ul.menu li.current-menu-item > a {
+	color: goldenrod;
+}
+
+.site-footer {
+  background-color: #002120;
+  color: #fff;
+}
+
+.site-footer a:not(.button) {
+    color: goldenrod;
+}
+

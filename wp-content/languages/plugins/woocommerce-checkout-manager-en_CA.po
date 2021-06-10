@@ -1,0 +1,1425 @@
+# Translation of Development (trunk) in English (Canada)
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-04 09:58:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: includes/admin.php:904
+msgid "<strong>WooCommerce Checkout Manager Data Update Required</strong> &#8211; We just need to update the settings for WooCommerce Checkout Manager to the latest version."
+msgstr ""
+
+#: includes/admin.php:917
+msgid "Open WooCheckout"
+msgstr ""
+
+#: includes/classes/file_upload/main_upload.php:52
+msgid "Upload failed. Files were not uploaded."
+msgstr ""
+
+#: includes/classes/file_upload/main_upload.php:57
+msgid "Invalid Order. Files were not uploaded."
+msgstr ""
+
+#: includes/classes/file_upload/main_upload.php:172
+msgid "No uploads were recognised. Files were not uploaded."
+msgstr ""
+
+#: includes/admin.php:931
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+
+#: includes/admin.php:298
+msgid "Are you sure you wish to reset the settings on this tab for WooCommerce Checkout Manager?"
+msgstr "Are you sure you wish to reset the settings on this tab for WooCommerce Checkout Manager?"
+
+#. Author of the plugin/theme
+msgid "Visser Labs"
+msgstr "Visser Labs"
+
+#. Author URI of the plugin/theme
+msgid "http://www.visser.com.au"
+msgstr "http://www.visser.com.au"
+
+#: includes/classes/export.php:531
+msgid "Billing Fields"
+msgstr "Billing Fields"
+
+#: includes/classes/export.php:532
+msgid "Shipping Fields"
+msgstr "Shipping Fields"
+
+#: includes/classes/export.php:533
+msgid "Additional Fields"
+msgstr "Additional Fields"
+
+#: includes/classes/file_upload/upload_settings.php:49
+msgid "Upload Title"
+msgstr "Upload Title"
+
+#: includes/classes/main.php:586 includes/classes/main.php:693
+#: includes/classes/main.php:803
+msgid "Your changes have been saved."
+msgstr "Your changes have been saved."
+
+#: includes/admin.php:911
+msgid "Run the updater"
+msgstr "Run the updater"
+
+#: includes/classes/export.php:513
+msgid "Export"
+msgstr "Export"
+
+#: includes/admin.php:715
+msgid "Position for notification one"
+msgstr "Position for notification one"
+
+#: includes/admin.php:720 includes/admin.php:746
+msgid "Before Customer Address Fields"
+msgstr "Before Customer Address Fields"
+
+#: includes/admin.php:728 includes/admin.php:753
+msgid "Before Order Summary"
+msgstr "Before Order Summary"
+
+#: includes/admin.php:733 includes/admin.php:758
+msgid "Notification text area: You can use class"
+msgstr "Notification text area: You can use class"
+
+#: includes/admin.php:733 includes/admin.php:758
+msgid "for the same design as WooCommerce Coupon."
+msgstr "for the same design as WooCommerce Coupon."
+
+#: includes/admin.php:741
+msgid "Position for notification two"
+msgstr "Position for notification two"
+
+#: includes/admin.php:769
+msgid "General Switches"
+msgstr "General Switches"
+
+#: includes/admin.php:774
+msgid "Remove Additional Information title"
+msgstr "Remove Additional Information title"
+
+#: includes/admin.php:784
+msgid "Translate WooCCM Options Panel"
+msgstr "Translate WooCCM Options Panel"
+
+#: includes/admin.php:794
+msgid "Hide registration checkbox"
+msgstr "Hide registration checkbox"
+
+#: includes/admin.php:804
+msgid "Retain Fields Information"
+msgstr "Retain Fields Information"
+
+#: includes/admin.php:814
+msgid "Editing Of Abbreviation Fields"
+msgstr "Editing Of Abbreviation Fields"
+
+#: includes/admin.php:820
+msgid "Additional Fields Positions"
+msgstr "Additional Fields Positions"
+
+#: includes/admin.php:826
+msgid "Before Shipping Form"
+msgstr "Before Shipping Form"
+
+#: includes/admin.php:836
+msgid "After Shipping Form"
+msgstr "After Shipping Form"
+
+#: includes/admin.php:846
+msgid "Before Billing Form"
+msgstr "Before Billing Form"
+
+#: includes/admin.php:856
+msgid "After Billing Form"
+msgstr "After Billing Form"
+
+#: includes/admin.php:866
+msgid "After Order Notes"
+msgstr "After Order Notes"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/woocommerce-checkout-manager/"
+msgstr "https://wordpress.org/plugins/woocommerce-checkout-manager/"
+
+#. Description of the plugin/theme
+msgid "Manages WooCommerce Checkout, the advanced way."
+msgstr "Manages WooCommerce Checkout, the advanced way."
+
+#: includes/admin.php:698
+msgid "CSS language stands for Cascading Style Sheets which is used to style html content. You can change the fonts size, colours, margins of content, which lines to show or input, adjust height, width, background images etc."
+msgstr "CSS language stands for Cascading Style Sheets which is used to style html content. You can change the fonts size, colours, margins of content, which lines to show or input, adjust height, width, background images etc."
+
+#: includes/admin.php:699
+msgid "Get help in our"
+msgstr "Get help in our"
+
+#: includes/admin.php:699
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: includes/admin.php:590
+msgid "Order Notes Label"
+msgstr "Order Notes Label"
+
+#: includes/admin.php:595
+msgid "Order Notes Placeholder"
+msgstr "Order Notes Placeholder"
+
+#: includes/admin.php:601
+msgid "Disable Order Notes."
+msgstr "Disable Order Notes."
+
+#: includes/admin.php:610
+msgid "Time order was purchased"
+msgstr "Time order was purchased"
+
+#: includes/admin.php:613
+msgid "Order time title"
+msgstr "Order time title"
+
+#: includes/admin.php:618
+msgid "Set TimeZone"
+msgstr "Set TimeZone"
+
+#: includes/admin.php:624
+msgid "Enable display of order time."
+msgstr "Enable display of order time."
+
+#: includes/admin.php:628
+msgid "Enable 24 hour time."
+msgstr "Enable 24 hour time."
+
+#: includes/admin.php:637
+msgid "Payment method used by customer"
+msgstr "Payment method used by customer"
+
+#: includes/admin.php:645
+msgid "Enable display of payment method."
+msgstr "Enable display of payment method."
+
+#: includes/admin.php:653
+msgid "Shipping method used by customer"
+msgstr "Shipping method used by customer"
+
+#: includes/admin.php:661
+msgid "Enable display of shipping method."
+msgstr "Enable display of shipping method."
+
+#: includes/admin.php:670
+msgid "Default sate code for checkout."
+msgstr "Default sate code for checkout."
+
+#: includes/admin.php:678
+msgid "Enable default state code."
+msgstr "Enable default state code."
+
+#: includes/admin.php:693
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: includes/admin.php:316 includes/admin.php:349 includes/admin.php:376
+#: includes/admin.php:404 includes/admin.php:438 includes/admin.php:462
+#: includes/admin.php:512 includes/admin.php:533 includes/admin.php:553
+msgid "Change order"
+msgstr "Change order"
+
+#: includes/admin.php:320 includes/admin.php:408 includes/admin.php:516
+msgid "Remove button"
+msgstr "Remove button"
+
+#: includes/admin.php:387 includes/admin.php:473 includes/admin.php:564
+msgid "+ Add New Field"
+msgstr "+ Add New Field"
+
+#: includes/admin.php:537 includes/admin.php:557
+msgid "Remove Field"
+msgstr "Remove Field"
+
+#: includes/admin.php:572
+msgid "Disable Billing Address fields for certain products"
+msgstr "Disable Billing Address fields for certain products"
+
+#: includes/admin.php:575
+msgid "To get product number, goto the listing of WooCoommerce Products then hover over each product and you will see ID. Example"
+msgstr "To get product number, goto the listing of WooCoommerce Products then hover over each product and you will see ID. Example"
+
+#: includes/admin.php:587
+msgid "Order Notes"
+msgstr "Order Notes"
+
+#: includes/admin.php:273
+msgid "Additional"
+msgstr "Additional"
+
+#: includes/admin.php:275 includes/classes/export.php:515
+msgid "Like the plugin? Rate it! On WordPress.org"
+msgstr "Like the plugin? Rate it! On WordPress.org"
+
+#: includes/admin.php:309 includes/admin.php:398 includes/admin.php:485
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: includes/admin.php:271
+msgid "Billing"
+msgstr "Billing"
+
+#: includes/admin.php:272
+msgid "Shipping"
+msgstr "Shipping"
+
+#: includes/admin.php:90
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+#: includes/admin.php:91
+msgid "Order Time"
+msgstr "Order Time"
+
+#. #-#-#-#-#  tmp-woocommerce-checkout-manager.pot (WooCommerce Checkout
+#. Manager 4.0.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin.php:266 includes/classes/export.php:507
+msgid "WooCommerce Checkout Manager"
+msgstr "WooCommerce Checkout Manager"
+
+#: includes/admin.php:270
+msgid "General"
+msgstr "General"
+
+#: includes/admin.php:89
+msgid "Payment Method"
+msgstr "Payment Method"
+
+#: includes/admin.php:223 includes/install.php:94 includes/install.php:163
+msgid "Postcode / Zip"
+msgstr "Postcode / Zip"
+
+#: includes/admin.php:67
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: includes/templates/htmlheadadd.php:118
+#: includes/templates/htmlheadbill.php:115
+#: includes/templates/htmlheadship.php:114
+msgid "List of Options (Separated by "
+msgstr "List of Options (Separated by "
+
+#: includes/templates/htmlheadadd.php:132
+#: includes/templates/htmlheadbill.php:127
+#: includes/templates/htmlheadship.php:126
+msgid "Choose Type"
+msgstr "Choose Type"
+
+#: includes/templates/htmlheadadd.php:134
+#: includes/templates/htmlheadbill.php:129
+#: includes/templates/htmlheadship.php:128
+msgid "Abbreviation"
+msgstr "Abbreviation"
+
+#: includes/admin.php:136 includes/admin.php:204 includes/install.php:75
+#: includes/install.php:144
+msgid "Street address"
+msgstr "Street address"
+
+#: includes/admin.php:141 includes/admin.php:209 includes/install.php:80
+#: includes/install.php:149
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr "Apartment, suite, unit etc. (optional)"
+
+#: includes/admin.php:146 includes/admin.php:214 includes/install.php:85
+#: includes/install.php:154
+msgid "Town / City"
+msgstr "Town / City"
+
+#: includes/templates/htmlheadadd.php:110
+msgid "Input Name"
+msgstr "Input Name"
+
+#: includes/templates/htmlheadadd.php:112
+msgid "Change Name to"
+msgstr "Change Name to"
+
+#: includes/templates/htmlheadadd.php:114
+#: includes/templates/htmlheadbill.php:111
+#: includes/templates/htmlheadship.php:110
+msgid "Adapt"
+msgstr "Adapt"
+
+#: includes/templates/htmlheadadd.php:116
+#: includes/templates/htmlheadbill.php:113
+#: includes/templates/htmlheadship.php:112
+msgid "Title"
+msgstr "Title"
+
+#: includes/templates/htmlheadadd.php:92 includes/templates/htmlheadbill.php:93
+#: includes/templates/htmlheadship.php:92
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: includes/templates/htmlheadadd.php:94 includes/templates/htmlheadbill.php:95
+#: includes/templates/htmlheadship.php:94
+msgid "Chosen Value"
+msgstr "Chosen Value"
+
+#: includes/templates/htmlheadadd.php:96 includes/templates/htmlheadbill.php:97
+#: includes/templates/htmlheadship.php:96
+msgid "Conditional Tie"
+msgstr "Conditional Tie"
+
+#: includes/templates/htmlheadadd.php:100
+#: includes/templates/htmlheadbill.php:101
+#: includes/templates/htmlheadship.php:100
+msgid "Picker Type"
+msgstr "Picker Type"
+
+#: includes/templates/htmlheadadd.php:102
+#: includes/templates/htmlheadbill.php:103
+#: includes/templates/htmlheadship.php:102
+msgid "User Role"
+msgstr "User Role"
+
+#: includes/templates/htmlheadadd.php:104
+#: includes/templates/htmlheadbill.php:105
+#: includes/templates/htmlheadship.php:104
+msgid "Show for Roles (Separated by "
+msgstr "Show for Roles (Separated by "
+
+#: includes/templates/htmlheadadd.php:106
+#: includes/templates/htmlheadbill.php:107
+#: includes/templates/htmlheadship.php:106
+msgid "Hide from Roles (Separated by "
+msgstr "Hide from Roles (Separated by "
+
+#: includes/templates/htmlheadadd.php:108
+#: includes/templates/htmlheadbill.php:109
+#: includes/templates/htmlheadship.php:108
+msgid "Class"
+msgstr "Class"
+
+#: includes/templates/htmlheadadd.php:76 includes/templates/htmlheadbill.php:77
+#: includes/templates/htmlheadship.php:76
+msgid "Remove Tax"
+msgstr "Remove Tax"
+
+#: includes/templates/htmlheadadd.php:84 includes/templates/htmlheadbill.php:85
+#: includes/templates/htmlheadship.php:84
+msgid "Enter Amount"
+msgstr "Enter Amount"
+
+#: includes/templates/htmlheadadd.php:86 includes/templates/htmlheadbill.php:87
+#: includes/templates/htmlheadship.php:86
+msgid "Conditional"
+msgstr "Conditional"
+
+#: includes/templates/htmlheadadd.php:90 includes/templates/htmlheadbill.php:91
+#: includes/templates/htmlheadship.php:90
+msgid "Label"
+msgstr "Label"
+
+#: includes/templates/htmlheadadd.php:70 includes/templates/htmlheadbill.php:71
+#: includes/templates/htmlheadship.php:70
+msgid "Clear"
+msgstr "Clear"
+
+#: includes/templates/htmlheadadd.php:68 includes/templates/htmlheadbill.php:69
+#: includes/templates/htmlheadship.php:68
+msgid "Position"
+msgstr "Position"
+
+#: includes/templates/htmlheadadd.php:30 includes/templates/htmlheadbill.php:31
+#: includes/templates/htmlheadship.php:30
+msgid "Days before"
+msgstr "Days before"
+
+#: includes/templates/htmlheadadd.php:32 includes/templates/htmlheadbill.php:33
+#: includes/templates/htmlheadship.php:32
+msgid "Days After"
+msgstr "Days After"
+
+#: includes/templates/htmlheadadd.php:34 includes/templates/htmlheadbill.php:35
+#: includes/templates/htmlheadship.php:34
+msgid "Days Enabler"
+msgstr "Days Enabler"
+
+#: includes/templates/htmlheadadd.php:36 includes/templates/htmlheadbill.php:37
+#: includes/templates/htmlheadship.php:36
+msgid "Sundays"
+msgstr "Sundays"
+
+#: includes/templates/htmlheadadd.php:38 includes/templates/htmlheadbill.php:39
+#: includes/templates/htmlheadship.php:38
+msgid "Mondays"
+msgstr "Mondays"
+
+#: includes/templates/htmlheadadd.php:40 includes/templates/htmlheadbill.php:41
+#: includes/templates/htmlheadship.php:40
+msgid "Tuesdays"
+msgstr "Tuesdays"
+
+#: includes/templates/htmlheadadd.php:42 includes/templates/htmlheadbill.php:43
+#: includes/templates/htmlheadship.php:42
+msgid "Wednesdays"
+msgstr "Wednesdays"
+
+#: includes/templates/htmlheadadd.php:44 includes/templates/htmlheadbill.php:45
+#: includes/templates/htmlheadship.php:44
+msgid "Thursdays"
+msgstr "Thursdays"
+
+#: includes/templates/htmlheadadd.php:46 includes/templates/htmlheadbill.php:47
+#: includes/templates/htmlheadship.php:46
+msgid "Fridays"
+msgstr "Fridays"
+
+#: includes/templates/htmlheadadd.php:48 includes/templates/htmlheadbill.php:49
+#: includes/templates/htmlheadship.php:48
+msgid "Satudays"
+msgstr "Satudays"
+
+#: includes/templates/htmlheadadd.php:52 includes/templates/htmlheadadd.php:60
+#: includes/templates/htmlheadbill.php:53
+#: includes/templates/htmlheadbill.php:61
+#: includes/templates/htmlheadship.php:52
+#: includes/templates/htmlheadship.php:60
+msgid "YY"
+msgstr "YY"
+
+#: includes/templates/htmlheadadd.php:54 includes/templates/htmlheadadd.php:62
+#: includes/templates/htmlheadbill.php:55
+#: includes/templates/htmlheadbill.php:63
+#: includes/templates/htmlheadship.php:54
+#: includes/templates/htmlheadship.php:62
+msgid "MM"
+msgstr "MM"
+
+#: includes/templates/htmlheadadd.php:56 includes/templates/htmlheadadd.php:64
+#: includes/templates/htmlheadbill.php:57
+#: includes/templates/htmlheadbill.php:65
+#: includes/templates/htmlheadship.php:56
+#: includes/templates/htmlheadship.php:64
+msgid "DD"
+msgstr "DD"
+
+#: includes/templates/htmlheadadd.php:66 includes/templates/htmlheadbill.php:67
+#: includes/templates/htmlheadship.php:66
+msgid "Required"
+msgstr "Required"
+
+#: includes/templates/htmlheadadd.php:12 includes/templates/htmlheadbill.php:13
+#: includes/templates/htmlheadship.php:12
+msgid "Hide Field from Product"
+msgstr "Hide Field from Product"
+
+#: includes/templates/htmlheadadd.php:14 includes/templates/htmlheadbill.php:15
+#: includes/templates/htmlheadship.php:14
+msgid "Show Field for Product"
+msgstr "Show Field for Product"
+
+#: includes/templates/htmlheadadd.php:16 includes/templates/htmlheadbill.php:17
+#: includes/templates/htmlheadship.php:16
+msgid "Hide Field from Category"
+msgstr "Hide Field from Category"
+
+#: includes/templates/htmlheadadd.php:20 includes/templates/htmlheadbill.php:21
+#: includes/templates/htmlheadship.php:20
+msgid "Start Hour"
+msgstr "Start Hour"
+
+#: includes/templates/htmlheadadd.php:22 includes/templates/htmlheadbill.php:23
+#: includes/templates/htmlheadship.php:22
+msgid "End Hour"
+msgstr "End Hour"
+
+#: includes/templates/htmlheadadd.php:24 includes/templates/htmlheadbill.php:25
+#: includes/templates/htmlheadship.php:24
+msgid "Interval Min."
+msgstr "Interval Min."
+
+#: includes/templates/htmlheadadd.php:26 includes/templates/htmlheadbill.php:27
+#: includes/templates/htmlheadship.php:26
+msgid "Manual Min."
+msgstr "Manual Min."
+
+#: includes/templates/htmlheadadd.php:28 includes/templates/htmlheadbill.php:29
+#: includes/templates/htmlheadship.php:28
+msgid "Date Format"
+msgstr "Date Format"
+
+#: includes/templates/htmlbodyadd.php:161
+#: includes/templates/htmlbodybill.php:266
+#: includes/templates/htmlbodycloneadd.php:161
+#: includes/templates/htmlbodyclonebill.php:154
+#: includes/templates/htmlbodycloneship.php:155
+#: includes/templates/htmlbodyship.php:264
+msgid "File Picker"
+msgstr "File Picker"
+
+#: includes/templates/htmlbodycloneadd.php:11
+#: includes/templates/htmlbodyclonebill.php:11
+#: includes/templates/htmlbodycloneship.php:11
+msgid "More than two content"
+msgstr "More than two content"
+
+#: includes/templates/htmlbodycloneadd.php:13
+#: includes/templates/htmlbodyclonebill.php:13
+#: includes/templates/htmlbodycloneship.php:13
+msgid "Hide field from this Products Only"
+msgstr "Hide field from this Products Only"
+
+#: includes/templates/htmlbodycloneadd.php:15
+#: includes/templates/htmlbodyclonebill.php:15
+#: includes/templates/htmlbodycloneship.php:15
+msgid "Display Field for these Products Only"
+msgstr "Display Field for these Products Only"
+
+#: includes/templates/htmlbodycloneadd.php:17
+#: includes/templates/htmlbodyclonebill.php:17
+#: includes/templates/htmlbodycloneship.php:17
+msgid "Hide field from Category"
+msgstr "Hide field from Category"
+
+#: includes/templates/htmlbodycloneadd.php:19
+#: includes/templates/htmlbodyclonebill.php:19
+#: includes/templates/htmlbodycloneship.php:19
+#: includes/templates/htmlheadadd.php:18 includes/templates/htmlheadbill.php:19
+#: includes/templates/htmlheadship.php:18
+msgid "Show Field for Category"
+msgstr "Show Field for Category"
+
+#: includes/templates/htmlbodycloneadd.php:67
+#: includes/templates/htmlbodyclonebill.php:67
+#: includes/templates/htmlbodycloneship.php:67
+msgid "Add/Remove Required Attribute"
+msgstr "Add/Remove Required Attribute"
+
+#: includes/templates/htmlbodycloneadd.php:77
+#: includes/templates/htmlbodyclonebill.php:77
+#: includes/templates/htmlbodycloneship.php:77
+msgid "Clear Row"
+msgstr "Clear Row"
+
+#: includes/templates/htmlbodycloneadd.php:79
+#: includes/templates/htmlbodyclonebill.php:79
+#: includes/templates/htmlbodycloneship.php:79
+#: includes/templates/htmlheadadd.php:72 includes/templates/htmlheadbill.php:73
+#: includes/templates/htmlheadship.php:72
+msgid "Deny Checkout"
+msgstr "Deny Checkout"
+
+#: includes/templates/htmlbodycloneadd.php:83
+#: includes/templates/htmlbodyclonebill.php:83
+#: includes/templates/htmlbodycloneship.php:83
+msgid "Remove tax"
+msgstr "Remove tax"
+
+#: includes/templates/htmlbodycloneadd.php:85
+#: includes/templates/htmlbodyclonebill.php:85
+#: includes/templates/htmlbodycloneship.php:85
+#: includes/templates/htmlheadadd.php:78 includes/templates/htmlheadbill.php:79
+#: includes/templates/htmlheadship.php:78
+msgid "Deny Receipt"
+msgstr "Deny Receipt"
+
+#: includes/templates/htmlbodycloneadd.php:87
+#: includes/templates/htmlbodyclonebill.php:87
+#: includes/templates/htmlbodycloneship.php:87
+#: includes/templates/htmlheadadd.php:80 includes/templates/htmlheadbill.php:81
+#: includes/templates/htmlheadship.php:80
+msgid "Add Amount"
+msgstr "Add Amount"
+
+#: includes/templates/htmlbodycloneadd.php:89
+#: includes/templates/htmlbodyclonebill.php:89
+#: includes/templates/htmlbodycloneship.php:89
+#: includes/templates/htmlheadadd.php:82 includes/templates/htmlheadbill.php:83
+#: includes/templates/htmlheadship.php:82
+msgid "Amount Name"
+msgstr "Amount Name"
+
+#: includes/templates/htmlbodycloneadd.php:91
+#: includes/templates/htmlbodyclonebill.php:91
+#: includes/templates/htmlbodycloneship.php:91
+msgid "Add Amount Field"
+msgstr "Add Amount Field"
+
+#: includes/templates/htmlbodycloneadd.php:93
+#: includes/templates/htmlbodyclonebill.php:93
+#: includes/templates/htmlbodycloneship.php:93
+msgid "Conditional Field On"
+msgstr "Conditional Field On"
+
+#: includes/templates/htmlbodycloneadd.php:95
+#: includes/templates/htmlbodyclonebill.php:95
+#: includes/templates/htmlbodycloneship.php:95
+#: includes/templates/htmlheadadd.php:88 includes/templates/htmlheadbill.php:89
+#: includes/templates/htmlheadship.php:88
+msgid "Conditional Parent"
+msgstr "Conditional Parent"
+
+#: includes/templates/htmlbodycloneadd.php:97
+#: includes/templates/htmlbodyclonebill.php:97
+#: includes/templates/htmlbodycloneship.php:97
+msgid "Label of the New Field"
+msgstr "Label of the New Field"
+
+#: includes/templates/htmlbodycloneadd.php:99
+#: includes/templates/htmlbodyclonebill.php:99
+#: includes/templates/htmlbodycloneship.php:99
+msgid "Placeholder - Preview of Data to Input"
+msgstr "Placeholder - Preview of Data to Input"
+
+#: includes/templates/htmlbodycloneadd.php:101
+#: includes/templates/htmlbodyclonebill.php:101
+#: includes/templates/htmlbodycloneship.php:101
+msgid "Chosen value for conditional"
+msgstr "Chosen value for conditional"
+
+#: includes/templates/htmlbodycloneadd.php:105
+#: includes/templates/htmlbodyclonebill.php:105
+#: includes/templates/htmlbodycloneship.php:105
+#: includes/templates/htmlheadadd.php:98 includes/templates/htmlheadbill.php:99
+#: includes/templates/htmlheadship.php:98
+msgid "Default Color"
+msgstr "Default Colour"
+
+#: includes/templates/htmlbodycloneadd.php:126
+#: includes/templates/htmlbodyclonebill.php:122
+#: includes/templates/htmlbodycloneship.php:123
+msgid "Adapt to woocommerce style"
+msgstr "Adapt to woocommerce style"
+
+#: includes/templates/htmlbodycloneadd.php:165
+#: includes/templates/htmlbodyclonebill.php:158
+#: includes/templates/htmlbodycloneship.php:159
+msgid "Abbreviation (No spaces)"
+msgstr "Abbreviation (No spaces)"
+
+#: includes/templates/htmlheadadd.php:10 includes/templates/htmlheadbill.php:11
+#: includes/templates/htmlheadship.php:10
+msgid "More"
+msgstr "More"
+
+#: includes/templates/htmlbodyadd.php:157
+#: includes/templates/htmlbodybill.php:262
+#: includes/templates/htmlbodycloneadd.php:157
+#: includes/templates/htmlbodyclonebill.php:150
+#: includes/templates/htmlbodycloneship.php:151
+#: includes/templates/htmlbodyship.php:260
+msgid "Multi-Select"
+msgstr "Multi-Select"
+
+#: includes/templates/htmlbodyadd.php:158
+#: includes/templates/htmlbodybill.php:263
+#: includes/templates/htmlbodycloneadd.php:158
+#: includes/templates/htmlbodyclonebill.php:151
+#: includes/templates/htmlbodycloneship.php:152
+#: includes/templates/htmlbodyship.php:261
+msgid "Multi-Checkbox"
+msgstr "Multi-Checkbox"
+
+#: includes/templates/htmlbodyadd.php:159
+#: includes/templates/htmlbodybill.php:264
+#: includes/templates/htmlbodycloneadd.php:159
+#: includes/templates/htmlbodyclonebill.php:152
+#: includes/templates/htmlbodycloneship.php:153
+#: includes/templates/htmlbodyship.php:262
+msgid "Country"
+msgstr "Country"
+
+#: includes/templates/htmlbodyadd.php:160
+#: includes/templates/htmlbodybill.php:265
+#: includes/templates/htmlbodycloneadd.php:160
+#: includes/templates/htmlbodyclonebill.php:153
+#: includes/templates/htmlbodycloneship.php:154
+#: includes/templates/htmlbodyship.php:263
+msgid "State"
+msgstr "State"
+
+#: includes/templates/htmlbodyadd.php:149
+#: includes/templates/htmlbodybill.php:255
+#: includes/templates/htmlbodycloneadd.php:149
+#: includes/templates/htmlbodyclonebill.php:143
+#: includes/templates/htmlbodycloneship.php:144
+#: includes/templates/htmlbodyship.php:253
+msgid "Radio Button"
+msgstr "Radio Button"
+
+#: includes/templates/htmlbodyadd.php:150
+#: includes/templates/htmlbodybill.php:256
+#: includes/templates/htmlbodycloneadd.php:150
+#: includes/templates/htmlbodyclonebill.php:144
+#: includes/templates/htmlbodycloneship.php:145
+#: includes/templates/htmlbodyship.php:254
+msgid "Check Box"
+msgstr "Check Box"
+
+#: includes/templates/htmlbodyadd.php:151
+#: includes/templates/htmlbodybill.php:257
+#: includes/templates/htmlbodycloneadd.php:151
+#: includes/templates/htmlbodyclonebill.php:145
+#: includes/templates/htmlbodycloneship.php:146
+#: includes/templates/htmlbodyship.php:255
+msgid "Select Options"
+msgstr "Select Options"
+
+#: includes/templates/htmlbodyadd.php:152
+#: includes/templates/htmlbodybill.php:258
+#: includes/templates/htmlbodycloneadd.php:152
+#: includes/templates/htmlbodyclonebill.php:146
+#: includes/templates/htmlbodycloneship.php:147
+#: includes/templates/htmlbodyship.php:256
+msgid "Date Picker"
+msgstr "Date Picker"
+
+#: includes/templates/htmlbodyadd.php:153
+#: includes/templates/htmlbodycloneadd.php:153
+msgid "Text/ Html Swapper"
+msgstr "Text/ Html Swapper"
+
+#: includes/templates/htmlbodyadd.php:154
+#: includes/templates/htmlbodybill.php:259
+#: includes/templates/htmlbodycloneadd.php:154
+#: includes/templates/htmlbodyclonebill.php:147
+#: includes/templates/htmlbodycloneship.php:148
+#: includes/templates/htmlbodyship.php:257
+msgid "Time Picker"
+msgstr "Time Picker"
+
+#: includes/templates/htmlbodyadd.php:155
+#: includes/templates/htmlbodybill.php:260
+#: includes/templates/htmlbodycloneadd.php:155
+#: includes/templates/htmlbodyclonebill.php:148
+#: includes/templates/htmlbodycloneship.php:149
+#: includes/templates/htmlbodyship.php:258
+msgid "Color Picker"
+msgstr "Color Picker"
+
+#: includes/templates/htmlbodyadd.php:156
+#: includes/templates/htmlbodybill.php:261
+#: includes/templates/htmlbodycloneadd.php:156
+#: includes/templates/htmlbodyclonebill.php:149
+#: includes/templates/htmlbodycloneship.php:150
+#: includes/templates/htmlbodyship.php:259
+msgid "Heading"
+msgstr "Heading"
+
+#: includes/templates/htmlbodyadd.php:140
+#: includes/templates/htmlbodybill.php:243
+#: includes/templates/htmlbodycloneadd.php:140
+#: includes/templates/htmlbodyclonebill.php:134
+#: includes/templates/htmlbodycloneship.php:135
+#: includes/templates/htmlbodyship.php:241
+msgid "Hidden Toggler"
+msgstr "Hidden Toggler"
+
+#: includes/templates/htmlbodyadd.php:142
+#: includes/templates/htmlbodybill.php:247
+#: includes/templates/htmlbodycloneadd.php:142
+#: includes/templates/htmlbodyclonebill.php:136
+#: includes/templates/htmlbodycloneship.php:137
+#: includes/templates/htmlbodyship.php:245
+msgid "More Toggler"
+msgstr "More Toggler"
+
+#: includes/templates/htmlbodyadd.php:146
+#: includes/templates/htmlbodybill.php:252
+#: includes/templates/htmlbodycloneadd.php:146
+#: includes/templates/htmlbodyclonebill.php:140
+#: includes/templates/htmlbodycloneship.php:141
+#: includes/templates/htmlbodyship.php:250
+msgid "Text Input"
+msgstr "Text Input"
+
+#: includes/templates/htmlbodyadd.php:147
+#: includes/templates/htmlbodybill.php:253
+#: includes/templates/htmlbodycloneadd.php:147
+#: includes/templates/htmlbodyclonebill.php:141
+#: includes/templates/htmlbodycloneship.php:142
+#: includes/templates/htmlbodyship.php:251
+msgid "Text Area"
+msgstr "Text Area"
+
+#: includes/templates/htmlbodyadd.php:148
+#: includes/templates/htmlbodybill.php:254
+#: includes/templates/htmlbodycloneadd.php:148
+#: includes/templates/htmlbodyclonebill.php:142
+#: includes/templates/htmlbodycloneship.php:143
+#: includes/templates/htmlbodyship.php:252
+msgid "Password"
+msgstr "Password"
+
+#: includes/templates/htmlbodyadd.php:103
+#: includes/templates/htmlbodybill.php:188
+#: includes/templates/htmlbodycloneadd.php:103
+#: includes/templates/htmlbodyclonebill.php:103
+#: includes/templates/htmlbodycloneship.php:103
+#: includes/templates/htmlbodyship.php:186
+msgid "Parent Abbr. Name"
+msgstr "Parent Abbr. Name"
+
+#: includes/templates/htmlbodyadd.php:105
+#: includes/templates/htmlbodybill.php:192
+#: includes/templates/htmlbodyship.php:190
+msgid "#000000"
+msgstr "#000000"
+
+#: includes/templates/htmlbodyadd.php:109
+#: includes/templates/htmlbodybill.php:197
+#: includes/templates/htmlbodycloneadd.php:109
+#: includes/templates/htmlbodyclonebill.php:109
+#: includes/templates/htmlbodycloneship.php:109
+#: includes/templates/htmlbodyship.php:195
+msgid "Farbtastic"
+msgstr "Farbtastic"
+
+#: includes/templates/htmlbodyadd.php:110
+#: includes/templates/htmlbodybill.php:198
+#: includes/templates/htmlbodycloneadd.php:110
+#: includes/templates/htmlbodyclonebill.php:110
+#: includes/templates/htmlbodycloneship.php:110
+#: includes/templates/htmlbodyship.php:196
+msgid "Iris"
+msgstr "Iris"
+
+#: includes/templates/htmlbodyadd.php:122
+#: includes/templates/htmlbodycloneadd.php:122
+msgid "Billing Details"
+msgstr "Billing Details"
+
+#: includes/templates/htmlbodyadd.php:124
+#: includes/templates/htmlbodycloneadd.php:124
+msgid "Bill Form"
+msgstr "Bill Form"
+
+#: includes/templates/htmlbodyadd.php:128
+#: includes/templates/htmlbodybill.php:223
+#: includes/templates/htmlbodycloneadd.php:128
+#: includes/templates/htmlbodyclonebill.php:124
+#: includes/templates/htmlbodycloneship.php:125
+#: includes/templates/htmlbodyship.php:221
+msgid "Name Guide"
+msgstr "Name Guide"
+
+#: includes/templates/htmlbodyadd.php:132
+#: includes/templates/htmlbodybill.php:231
+#: includes/templates/htmlbodycloneadd.php:132
+#: includes/templates/htmlbodyclonebill.php:128
+#: includes/templates/htmlbodycloneship.php:129
+#: includes/templates/htmlbodyship.php:229
+msgid "Options Toggler"
+msgstr "Options Toggler"
+
+#: includes/templates/htmlbodyadd.php:134
+#: includes/templates/htmlbodycloneadd.php:134
+msgid "Swapper Toggler"
+msgstr "Swapper Toggler"
+
+#: includes/templates/htmlbodyadd.php:136
+#: includes/templates/htmlbodybill.php:235
+#: includes/templates/htmlbodycloneadd.php:136
+#: includes/templates/htmlbodyclonebill.php:130
+#: includes/templates/htmlbodycloneship.php:131
+#: includes/templates/htmlbodyship.php:233
+msgid "Time Toggler"
+msgstr "Time Toggler"
+
+#: includes/templates/htmlbodyadd.php:138
+#: includes/templates/htmlbodybill.php:239
+#: includes/templates/htmlbodycloneadd.php:138
+#: includes/templates/htmlbodyclonebill.php:132
+#: includes/templates/htmlbodycloneship.php:133
+#: includes/templates/htmlbodyship.php:237
+msgid "Date Toggler"
+msgstr "Date Toggler"
+
+#: includes/templates/htmlbodyadd.php:81
+#: includes/templates/htmlbodybill.php:144
+#: includes/templates/htmlbodycloneadd.php:81
+#: includes/templates/htmlbodyclonebill.php:81
+#: includes/templates/htmlbodycloneship.php:81
+#: includes/templates/htmlbodyship.php:142
+msgid "Filter Toggler"
+msgstr "Filter Toggler"
+
+#: includes/templates/htmlbodyadd.php:89
+#: includes/templates/htmlbodybill.php:160
+#: includes/templates/htmlbodycloneadd.php:89
+#: includes/templates/htmlbodyclonebill.php:89
+#: includes/templates/htmlbodycloneship.php:89
+#: includes/templates/htmlbodyship.php:158
+msgid "My Custom Charge"
+msgstr "My Custom Charge"
+
+#: includes/templates/htmlbodyadd.php:97
+#: includes/templates/htmlbodybill.php:176
+#: includes/templates/htmlbodycloneadd.php:97
+#: includes/templates/htmlbodyclonebill.php:97
+#: includes/templates/htmlbodycloneship.php:97
+#: includes/templates/htmlbodyship.php:174
+msgid "My Field Name"
+msgstr "My Field Name"
+
+#: includes/templates/htmlbodyadd.php:99
+#: includes/templates/htmlbodybill.php:180
+#: includes/templates/htmlbodycloneadd.php:99
+#: includes/templates/htmlbodyclonebill.php:99
+#: includes/templates/htmlbodycloneship.php:99
+#: includes/templates/htmlbodyship.php:178
+msgid "Example red"
+msgstr "Example red"
+
+#: includes/templates/htmlbodyadd.php:101
+#: includes/templates/htmlbodybill.php:184
+#: includes/templates/htmlbodycloneadd.php:101
+#: includes/templates/htmlbodyclonebill.php:101
+#: includes/templates/htmlbodycloneship.php:101
+#: includes/templates/htmlbodyship.php:182
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/templates/htmlbodyadd.php:73
+#: includes/templates/htmlbodybill.php:131
+#: includes/templates/htmlbodycloneadd.php:73
+#: includes/templates/htmlbodyclonebill.php:73
+#: includes/templates/htmlbodycloneship.php:73
+#: includes/templates/htmlbodyship.php:129
+msgid "Center"
+msgstr "Centre"
+
+#: includes/templates/htmlbodyadd.php:72
+#: includes/templates/htmlbodybill.php:130
+#: includes/templates/htmlbodycloneadd.php:72
+#: includes/templates/htmlbodyclonebill.php:72
+#: includes/templates/htmlbodycloneship.php:72
+#: includes/templates/htmlbodyship.php:128
+msgid "Right"
+msgstr "Right"
+
+#: includes/templates/htmlbodyadd.php:13 includes/templates/htmlbodyadd.php:15
+#: includes/templates/htmlbodybill.php:16
+#: includes/templates/htmlbodybill.php:20
+#: includes/templates/htmlbodycloneadd.php:13
+#: includes/templates/htmlbodycloneadd.php:15
+#: includes/templates/htmlbodyclonebill.php:13
+#: includes/templates/htmlbodyclonebill.php:15
+#: includes/templates/htmlbodycloneship.php:13
+#: includes/templates/htmlbodycloneship.php:15
+#: includes/templates/htmlbodyship.php:16
+#: includes/templates/htmlbodyship.php:20
+msgid "Product ID(s) e.g 1674||1233"
+msgstr "Product ID(s) e.g 1674||1233"
+
+#: includes/templates/htmlbodyadd.php:17 includes/templates/htmlbodyadd.php:19
+#: includes/templates/htmlbodybill.php:24
+#: includes/templates/htmlbodybill.php:28
+#: includes/templates/htmlbodycloneadd.php:17
+#: includes/templates/htmlbodycloneadd.php:19
+#: includes/templates/htmlbodyclonebill.php:17
+#: includes/templates/htmlbodyclonebill.php:19
+#: includes/templates/htmlbodycloneship.php:17
+#: includes/templates/htmlbodycloneship.php:19
+#: includes/templates/htmlbodyship.php:24
+#: includes/templates/htmlbodyship.php:28
+msgid "Category Slug(s) e.g my-cat||my-cat2"
+msgstr "Category Slug(s) e.g my-cat||my-cat2"
+
+#: includes/templates/htmlbodyadd.php:51 includes/templates/htmlbodybill.php:92
+#: includes/templates/htmlbodycloneadd.php:51
+#: includes/templates/htmlbodyclonebill.php:51
+#: includes/templates/htmlbodycloneship.php:51
+#: includes/templates/htmlbodyship.php:92
+msgid "Min Date"
+msgstr "Min Date"
+
+#: includes/templates/htmlbodyadd.php:53 includes/templates/htmlbodyadd.php:61
+#: includes/templates/htmlbodybill.php:96
+#: includes/templates/htmlbodybill.php:112
+#: includes/templates/htmlbodycloneadd.php:53
+#: includes/templates/htmlbodycloneadd.php:61
+#: includes/templates/htmlbodyclonebill.php:53
+#: includes/templates/htmlbodyclonebill.php:61
+#: includes/templates/htmlbodycloneship.php:53
+#: includes/templates/htmlbodycloneship.php:61
+#: includes/templates/htmlbodyship.php:96
+#: includes/templates/htmlbodyship.php:110
+msgid "2013"
+msgstr "2013"
+
+#: includes/templates/htmlbodyadd.php:53 includes/templates/htmlbodyadd.php:61
+#: includes/templates/htmlbodybill.php:96
+#: includes/templates/htmlbodybill.php:112
+#: includes/templates/htmlbodycloneadd.php:53
+#: includes/templates/htmlbodycloneadd.php:61
+#: includes/templates/htmlbodyclonebill.php:53
+#: includes/templates/htmlbodyclonebill.php:61
+#: includes/templates/htmlbodycloneship.php:53
+#: includes/templates/htmlbodycloneship.php:61
+#: includes/templates/htmlbodyship.php:96
+#: includes/templates/htmlbodyship.php:110
+msgid "yy"
+msgstr "yy"
+
+#: includes/templates/htmlbodyadd.php:55 includes/templates/htmlbodyadd.php:63
+#: includes/templates/htmlbodybill.php:100
+#: includes/templates/htmlbodybill.php:116
+#: includes/templates/htmlbodycloneadd.php:55
+#: includes/templates/htmlbodycloneadd.php:63
+#: includes/templates/htmlbodyclonebill.php:55
+#: includes/templates/htmlbodyclonebill.php:63
+#: includes/templates/htmlbodycloneship.php:55
+#: includes/templates/htmlbodycloneship.php:63
+#: includes/templates/htmlbodyship.php:100
+#: includes/templates/htmlbodyship.php:114
+msgid "10"
+msgstr "10"
+
+#: includes/templates/htmlbodyadd.php:55 includes/templates/htmlbodyadd.php:63
+#: includes/templates/htmlbodybill.php:100
+#: includes/templates/htmlbodybill.php:116
+#: includes/templates/htmlbodycloneadd.php:55
+#: includes/templates/htmlbodycloneadd.php:63
+#: includes/templates/htmlbodyclonebill.php:55
+#: includes/templates/htmlbodyclonebill.php:63
+#: includes/templates/htmlbodycloneship.php:55
+#: includes/templates/htmlbodycloneship.php:63
+#: includes/templates/htmlbodyship.php:100
+#: includes/templates/htmlbodyship.php:114
+msgid "mm"
+msgstr "mm"
+
+#: includes/templates/htmlbodyadd.php:57 includes/templates/htmlbodyadd.php:65
+#: includes/templates/htmlbodybill.php:104
+#: includes/templates/htmlbodybill.php:120
+#: includes/templates/htmlbodycloneadd.php:57
+#: includes/templates/htmlbodycloneadd.php:65
+#: includes/templates/htmlbodyclonebill.php:57
+#: includes/templates/htmlbodyclonebill.php:65
+#: includes/templates/htmlbodycloneship.php:57
+#: includes/templates/htmlbodycloneship.php:65
+#: includes/templates/htmlbodyship.php:104
+#: includes/templates/htmlbodyship.php:118
+msgid "25"
+msgstr "25"
+
+#: includes/templates/htmlbodyadd.php:57 includes/templates/htmlbodyadd.php:65
+#: includes/templates/htmlbodybill.php:104
+#: includes/templates/htmlbodybill.php:120
+#: includes/templates/htmlbodycloneadd.php:57
+#: includes/templates/htmlbodycloneadd.php:65
+#: includes/templates/htmlbodyclonebill.php:57
+#: includes/templates/htmlbodyclonebill.php:65
+#: includes/templates/htmlbodycloneship.php:57
+#: includes/templates/htmlbodycloneship.php:65
+#: includes/templates/htmlbodyship.php:104
+#: includes/templates/htmlbodyship.php:118
+msgid "dd"
+msgstr "dd"
+
+#: includes/templates/htmlbodyadd.php:59
+#: includes/templates/htmlbodybill.php:108
+#: includes/templates/htmlbodycloneadd.php:59
+#: includes/templates/htmlbodyclonebill.php:59
+#: includes/templates/htmlbodycloneship.php:59
+#: includes/templates/htmlbodyship.php:107
+msgid "Max Date"
+msgstr "Max Date"
+
+#: includes/templates/htmlbodyadd.php:71
+#: includes/templates/htmlbodybill.php:129
+#: includes/templates/htmlbodycloneadd.php:71
+#: includes/templates/htmlbodyclonebill.php:71
+#: includes/templates/htmlbodycloneship.php:71
+#: includes/templates/htmlbodyship.php:127
+msgid "Left"
+msgstr "Left"
+
+#: includes/templates/functions/add_functions.php:278
+#: includes/templates/functions/billing_functions.php:311
+#: includes/templates/functions/shipping_functions.php:311
+msgid "Apply"
+msgstr "Apply"
+
+#: includes/classes/main.php:1458
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+#: includes/classes/main.php:2158
+msgid "WooCommerce is not active! WooCommerce Checkout Manager requires WooCommerce to be active."
+msgstr "WooCommerce is not active! WooCommerce Checkout Manager requires WooCommerce to be active."
+
+#: includes/classes/main.php:2266
+msgid "No Added Fields"
+msgstr "No Added Fields"
+
+#: includes/classes/main.php:2268
+msgid "Field Name"
+msgstr "Field Name"
+
+#: includes/classes/main.php:1447 includes/classes/main.php:1462
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/classes/main.php:1430
+msgid "Telephone:"
+msgstr "Telephone:"
+
+#: includes/classes/main.php:1443
+msgid "Billing Address"
+msgstr "Billing Address"
+
+#: includes/classes/main.php:1429
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/classes/main.php:516
+msgid "Sorry! An error occurred. WooCheckout requires you to not have values in both role options. OK."
+msgstr "Sorry! An error occurred. WooCheckout requires you to not have values in both role options. OK."
+
+#: includes/classes/main.php:526
+msgid "Sorry! An error occurred. WooCheckout requires you to not have values in both hidden product options. OK."
+msgstr "Sorry! An error occurred. WooCheckout requires you to not have values in both hidden product options. OK."
+
+#: includes/classes/main.php:536
+msgid "Sorry! An error occurred. WooCheckout requires you to not have values in both hidden category options. OK."
+msgstr "Sorry! An error occurred. WooCheckout requires you to not have values in both hidden category options. OK."
+
+#: includes/classes/main.php:622 includes/classes/main.php:731
+msgid "Sorry! An error occurred. WooCheckout requires you to not have values in both role options."
+msgstr "Sorry! An error occurred. WooCheckout requires you to not have values in both role options."
+
+#: includes/classes/main.php:632 includes/classes/main.php:741
+msgid "Sorry! An error occurred. WooCheckout requires you to not have values in both hidden product options."
+msgstr "Sorry! An error occurred. WooCheckout requires you to not have values in both hidden product options."
+
+#: includes/classes/main.php:642 includes/classes/main.php:751
+msgid "Sorry! An error occurred. WooCheckout requires you to not have values in both hidden category options."
+msgstr "Sorry! An error occurred. WooCheckout requires you to not have values in both hidden category options."
+
+#: includes/classes/main.php:1424
+msgid "Customer details"
+msgstr "Customer details"
+
+#: includes/admin.php:46
+msgid "Support"
+msgstr "Support"
+
+#: includes/classes/file_upload/upload_settings.php:105
+msgid "General Alerts"
+msgstr "General Alerts"
+
+#: includes/classes/file_upload/upload_settings.php:106
+msgid "Picture Editing Saved"
+msgstr "Picture Editing Saved"
+
+#: includes/classes/file_upload/upload_settings.php:115
+msgid "Deletion confirmation"
+msgstr "Deletion confirmation"
+
+#: includes/classes/file_upload/upload_settings.php:124
+msgid "Restrictions"
+msgstr "Restrictions"
+
+#: includes/classes/file_upload/upload_settings.php:125
+msgid "File types"
+msgstr "File types"
+
+#: includes/classes/file_upload/upload_settings.php:130
+msgid "Number Of Files to Upload"
+msgstr "Number Of Files to Upload"
+
+#: includes/classes/file_upload/upload_settings.php:139
+msgid "Allow Upload for Order Status"
+msgstr "Allow Upload for Order Status"
+
+#: includes/classes/import.php:150 includes/classes/import.php:156
+#: includes/classes/import.php:162 includes/classes/import.php:168
+msgid "Import CSV"
+msgstr "Import CSV"
+
+#: includes/admin.php:45
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/classes/file_upload/upload_settings.php:58
+msgid "Notification E-mail"
+msgstr "Notification E-mail"
+
+#: includes/classes/file_upload/upload_settings.php:67
+msgid "Products"
+msgstr "Products"
+
+#: includes/classes/file_upload/upload_settings.php:68
+#: includes/classes/file_upload/upload_settings.php:87
+msgid "Allow File Upload"
+msgstr "Allow File Upload"
+
+#: includes/classes/file_upload/upload_settings.php:77
+#: includes/classes/file_upload/upload_settings.php:96
+msgid "Deny File Upload"
+msgstr "Deny File Upload"
+
+#: includes/classes/file_upload/upload_settings.php:86
+msgid "Categories"
+msgstr "Categories"
+
+#: includes/classes/file_upload/main_upload.php:654
+msgid "Deleted Successfully."
+msgstr "Deleted Successfully."
+
+#: includes/classes/file_upload/upload_settings.php:13
+msgid "General File Upload"
+msgstr "General File Upload"
+
+#: includes/classes/file_upload/upload_settings.php:19
+msgid "Allow Customers to Upload Files"
+msgstr "Allow Customers to Upload Files"
+
+#: includes/classes/file_upload/upload_settings.php:32
+msgid "Categorize Uploaded Files"
+msgstr "Categorize Uploaded Files"
+
+#: includes/classes/file_upload/upload_settings.php:35
+msgid "Changes uploaded files location folder from"
+msgstr "Changes uploaded files location folder from"
+
+#: includes/classes/file_upload/upload_settings.php:37
+msgid "to"
+msgstr "to"
+
+#: includes/classes/file_upload/main_upload.php:296
+#: includes/classes/file_upload/main_upload.php:525
+msgid "Delete image"
+msgstr "Delete image"
+
+#: includes/classes/file_upload/main_upload.php:296
+#: includes/classes/file_upload/main_upload.php:525
+msgid "Delete"
+msgstr "Delete"
+
+#: includes/classes/file_upload/main_upload.php:237
+#: includes/classes/file_upload/main_upload.php:478
+msgid "Name"
+msgstr "Name"
+
+#: includes/classes/file_upload/main_upload.php:233
+#: includes/classes/file_upload/main_upload.php:474
+msgid "Width x Height"
+msgstr "Width x Height"
+
+#: includes/classes/file_upload/main_upload.php:234
+#: includes/classes/file_upload/main_upload.php:475
+msgid "Extension"
+msgstr "Extension"
+
+#: includes/classes/file_upload/main_upload.php:235
+#: includes/classes/file_upload/main_upload.php:476
+msgid "ID #"
+msgstr "ID #"
+
+#: includes/classes/file_upload/main_upload.php:236
+#: includes/classes/file_upload/main_upload.php:477
+msgid "Link"
+msgstr "Link"
+
+#: includes/classes/file_upload/main_upload.php:232
+#: includes/classes/file_upload/main_upload.php:473
+msgid "Action"
+msgstr "Action"
+
+#: includes/classes/field_filters.php:394
+msgid "Select a state&hellip;"
+msgstr "Select a state&hellip;"
+
+#: includes/classes/field_filters.php:510
+msgid "Select a country&hellip;"
+msgstr "Select a country&hellip;"
+
+#: includes/classes/field_filters.php:518
+msgid "Update country"
+msgstr "Update country"
+
+#: includes/classes/field_filters.php:576
+msgid "Select some options"
+msgstr "Select some options"
+
+#: includes/classes/file_upload/main_upload.php:170
+msgid "Files were uploaded successfully."
+msgstr "Files were uploaded successfully."
+
+#: includes/classes/file_upload/main_upload.php:184
+msgid "Order Uploaded files"
+msgstr "Order Uploaded files"
+
+#: includes/classes/file_upload/main_upload.php:231
+#: includes/classes/file_upload/main_upload.php:472
+msgid "File Image"
+msgstr "File Image"
+
+#: includes/classes/field_filters.php:177
+msgid "Upload Files"
+msgstr "Upload Files"
+
+#: includes/classes/export.php:580 includes/classes/export.php:646
+#: includes/classes/export.php:711
+msgid "Export All Orders"
+msgstr "Export All Orders"
+
+#: includes/classes/export.php:594 includes/classes/export.php:660
+#: includes/classes/export.php:725
+msgid "Export Settings"
+msgstr "Export Settings"
+
+#: includes/classes/export.php:552
+msgid "Billing Fields Section"
+msgstr "Billing Fields Section"
+
+#: includes/classes/export.php:618
+msgid "Shipping Fields Section"
+msgstr "Shipping Fields Section"
+
+#: includes/classes/field_filters.php:35 includes/classes/field_filters.php:110
+#: includes/classes/field_filters.php:187
+#: includes/classes/field_filters.php:262
+#: includes/classes/field_filters.php:337
+#: includes/classes/field_filters.php:455
+#: includes/classes/field_filters.php:558
+#: includes/classes/field_filters.php:611
+#: includes/classes/field_filters.php:662
+#: includes/classes/field_filters.php:709
+#: includes/classes/field_filters.php:765
+#: includes/classes/field_filters.php:808
+#: includes/classes/field_filters.php:854
+#: includes/classes/field_filters.php:894
+msgid "required"
+msgstr "Required"
+
+#: includes/classes/export.php:538
+msgid "Field Data Export"
+msgstr "Field Data Export"
+
+#: includes/classes/export.php:685
+msgid "Additional Fields Section"
+msgstr "Additional Fields Section"
+
+#: includes/classes/export.php:558 includes/classes/export.php:624
+#: includes/classes/export.php:689
+msgid "Export All Orders with abbreviation name : "
+msgstr "Export All Orders with abbreviation name : "
+
+#: includes/classes/export.php:571 includes/classes/export.php:586
+#: includes/classes/export.php:600 includes/classes/export.php:637
+#: includes/classes/export.php:652 includes/classes/export.php:666
+#: includes/classes/export.php:702 includes/classes/export.php:717
+#: includes/classes/export.php:731
+msgid "Download"
+msgstr "Download"

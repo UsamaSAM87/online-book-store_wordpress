@@ -1,0 +1,65 @@
+/* Changelog */
+.xt-changelog h4 {
+  margin-top: 0; }
+.xt-changelog ul {
+  padding: 0px;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  background: #fff;
+  overflow: hidden;
+  margin: 0 0 30px 0; }
+  .xt-changelog ul li {
+    margin: 0 !important;
+    display: block;
+    padding: 8px 10px;
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden; }
+    .xt-changelog ul li strong {
+      background: #ffffcc;
+      color: #000;
+      padding: 1px 5px;
+      border-radius: 3px; }
+    .xt-changelog ul li:nth-child(even) {
+      background: #f9f9f9; }
+    .xt-changelog ul li .update-type {
+      padding: 1px 8px;
+      display: block;
+      border-radius: 3px;
+      text-align: center;
+      width: 70px;
+      float: left;
+      box-sizing: border-box;
+      font-size: 12px;
+      line-height: 24px;
+      color: #181818; }
+    .xt-changelog ul li .update-txt {
+      display: block;
+      padding-left: 85px;
+      box-sizing: border-box;
+      color: #181818;
+      line-height: 26px;
+      font-size: 14px; }
+      .xt-changelog ul li .update-txt a {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer; }
+    .xt-changelog ul li span.initial {
+      background: #e4e4a9; }
+    .xt-changelog ul li span.fix {
+      background: #f4c5c5; }
+    .xt-changelog ul li span.new {
+      background: #afe7af; }
+    .xt-changelog ul li span.enhance {
+      background: #bed4f2; }
+    .xt-changelog ul li span.update {
+      background: rgba(26, 224, 181, 0.3); }
+    .xt-changelog ul li span.support {
+      background: rgba(203, 160, 255, 0.38); }
+    .xt-changelog ul li span.extension {
+      background: rgba(255, 152, 0, 0.5); }
+
+.menu-top {
+  font-size: 13px !important; }
+
+/*# sourceMappingURL=admin.css.map */
